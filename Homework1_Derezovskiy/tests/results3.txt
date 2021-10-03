@@ -1,0 +1,11 @@
+Filled container. 
+Container contains 7 elements.
+0: It is Tetrahedron: a = 6. Material density = 9. Square = 62.35382907247958
+1: It is Tetrahedron: a = 7. Material density = 88. Square = 84.87048957087499
+2: It is Parallelepiped: x = 5, y = 6, z = 3. Material density = 11. Square = 126.0
+3: It is Ball: r = 4. Material density = 4. Square = 201.0619298297468
+4: It is Ball: r = 4. Material density = 6. Square = 201.0619298297468
+5: It is Parallelepiped: x = 66, y = 2, z = 4. Material density = 6. Square = 808.0
+6: It is Ball: r = 44. Material density = 5. Square = 24328.49350939936
+Empty container. 
+Container contains 0 elements.

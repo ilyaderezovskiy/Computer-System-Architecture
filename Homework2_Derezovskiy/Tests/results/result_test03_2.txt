@@ -1,0 +1,24 @@
+Sorted container:
+Container contains 21 elements.
+0: It is Tetrahedron: a = 6. Material density = 9. Square = 62.3538
+1: It is Tetrahedron: a = 6. Material density = 9. Square = 62.3538
+2: It is Tetrahedron: a = 6. Material density = 9. Square = 62.3538
+3: It is Tetrahedron: a = 7. Material density = 88. Square = 84.8705
+4: It is Tetrahedron: a = 7. Material density = 88. Square = 84.8705
+5: It is Tetrahedron: a = 7. Material density = 88. Square = 84.8705
+6: It is Ball: r = 3. Material density = 4. Square = 113.097
+7: It is Ball: r = 3. Material density = 4. Square = 113.097
+8: It is Ball: r = 3. Material density = 4. Square = 113.097
+9: It is Parallelepiped: x = 5, y = 6, z = 3. Material density = 11. Square = 126
+10: It is Parallelepiped: x = 5, y = 6, z = 3. Material density = 11. Square = 126
+11: It is Parallelepiped: x = 5, y = 6, z = 3. Material density = 11. Square = 126
+12: It is Ball: r = 4. Material density = 6. Square = 201.062
+13: It is Ball: r = 4. Material density = 6. Square = 201.062
+14: It is Ball: r = 4. Material density = 6. Square = 201.062
+15: It is Parallelepiped: x = 66, y = 2, z = 4. Material density = 6. Square = 808
+16: It is Parallelepiped: x = 66, y = 2, z = 4. Material density = 6. Square = 808
+17: It is Parallelepiped: x = 66, y = 2, z = 4. Material density = 6. Square = 808
+18: It is Ball: r = 44. Material density = 5. Square = 24328.5
+19: It is Ball: r = 44. Material density = 5. Square = 24328.5
+20: It is Ball: r = 44. Material density = 5. Square = 24328.5
+Square sum = 77171.6

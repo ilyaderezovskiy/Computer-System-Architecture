@@ -1,0 +1,23 @@
+Filled container:
+Container contains 21 elements.
+0: It is Ball: r = 3. Material density = 4. Square = 113.097
+1: It is Tetrahedron: a = 6. Material density = 9. Square = 62.3538
+2: It is Parallelepiped: x = 66, y = 2, z = 4. Material density = 6. Square = 808
+3: It is Ball: r = 4. Material density = 6. Square = 201.062
+4: It is Tetrahedron: a = 7. Material density = 88. Square = 84.8705
+5: It is Ball: r = 44. Material density = 5. Square = 24328.5
+6: It is Parallelepiped: x = 5, y = 6, z = 3. Material density = 11. Square = 126
+7: It is Ball: r = 3. Material density = 4. Square = 113.097
+8: It is Tetrahedron: a = 6. Material density = 9. Square = 62.3538
+9: It is Parallelepiped: x = 66, y = 2, z = 4. Material density = 6. Square = 808
+10: It is Ball: r = 4. Material density = 6. Square = 201.062
+11: It is Tetrahedron: a = 7. Material density = 88. Square = 84.8705
+12: It is Ball: r = 44. Material density = 5. Square = 24328.5
+13: It is Parallelepiped: x = 5, y = 6, z = 3. Material density = 11. Square = 126
+14: It is Ball: r = 3. Material density = 4. Square = 113.097
+15: It is Tetrahedron: a = 6. Material density = 9. Square = 62.3538
+16: It is Parallelepiped: x = 66, y = 2, z = 4. Material density = 6. Square = 808
+17: It is Ball: r = 4. Material density = 6. Square = 201.062
+18: It is Tetrahedron: a = 7. Material density = 88. Square = 84.8705
+19: It is Ball: r = 44. Material density = 5. Square = 24328.5
+20: It is Parallelepiped: x = 5, y = 6, z = 3. Material density = 11. Square = 126

@@ -1,0 +1,11 @@
+Sorted container:
+Container contains 8 elements.
+0: It is Parallelepiped: x = 1, y = 1, z = 1. Material density = 12. Square = 6
+1: It is Parallelepiped: x = 2, y = 2, z = 1. Material density = 4. Square = 16
+2: It is Parallelepiped: x = 3, y = 4, z = 5. Material density = 11. Square = 94
+3: It is Ball: r = 3. Material density = 5. Square = 113.097
+4: It is Parallelepiped: x = 10, y = 10, z = 10. Material density = 7. Square = 600
+5: It is Tetrahedron: a = 30. Material density = 3. Square = 1558.85
+6: It is Ball: r = 13. Material density = 5. Square = 2123.72
+7: It is Tetrahedron: a = 330. Material density = 3. Square = 188620
+Square sum = 193132

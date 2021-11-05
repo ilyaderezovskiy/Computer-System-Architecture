@@ -1,0 +1,22 @@
+Container contains 21 elements:
+1: Tetrahedron: a = 6, materialDensity = 9, Square = 62.3538290725
+2: Tetrahedron: a = 6, materialDensity = 9, Square = 62.3538290725
+3: Tetrahedron: a = 6, materialDensity = 9, Square = 62.3538290725
+4: Tetrahedron: a = 7, materialDensity = 88, Square = 84.8704895709
+5: Tetrahedron: a = 7, materialDensity = 88, Square = 84.8704895709
+6: Tetrahedron: a = 7, materialDensity = 88, Square = 84.8704895709
+7: Ball: r = 3, materialDensity = 4, Square = 113.097335529
+8: Ball: r = 3, materialDensity = 4, Square = 113.097335529
+9: Ball: r = 3, materialDensity = 4, Square = 113.097335529
+10: Parallelepiped: x = 5, y = 6, z = 3, materialDensity = 11, Square = 126.0
+11: Parallelepiped: x = 5, y = 6, z = 3, materialDensity = 11, Square = 126.0
+12: Parallelepiped: x = 5, y = 6, z = 3, materialDensity = 11, Square = 126.0
+13: Ball: r = 4, materialDensity = 6, Square = 201.06192983
+14: Ball: r = 4, materialDensity = 6, Square = 201.06192983
+15: Ball: r = 4, materialDensity = 6, Square = 201.06192983
+16: Parallelepiped: x = 66, y = 2, z = 4, materialDensity = 6, Square = 808.0
+17: Parallelepiped: x = 66, y = 2, z = 4, materialDensity = 6, Square = 808.0
+18: Parallelepiped: x = 66, y = 2, z = 4, materialDensity = 6, Square = 808.0
+19: Ball: r = 44, materialDensity = 5, Square = 24328.4935094
+20: Ball: r = 44, materialDensity = 5, Square = 24328.4935094
+21: Ball: r = 44, materialDensity = 5, Square = 24328.4935094

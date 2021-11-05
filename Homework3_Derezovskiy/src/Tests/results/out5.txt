@@ -1,0 +1,17 @@
+Container contains 16 elements:
+1: Parallelepiped: x = 1, y = 1, z = 1, materialDensity = 12, Square = 6.0
+2: Parallelepiped: x = 2, y = 2, z = 1, materialDensity = 4, Square = 16.0
+3: Tetrahedron: a = 6, materialDensity = 9, Square = 62.3538290725
+4: Parallelepiped: x = 3, y = 4, z = 5, materialDensity = 11, Square = 94.0
+5: Parallelepiped: x = 3, y = 4, z = 5, materialDensity = 6, Square = 94.0
+6: Ball: r = 3, materialDensity = 5, Square = 113.097335529
+7: Ball: r = 3, materialDensity = 4, Square = 113.097335529
+8: Ball: r = 4, materialDensity = 5, Square = 201.06192983
+9: Parallelepiped: x = 5, y = 6, z = 7, materialDensity = 8, Square = 214.0
+10: Ball: r = 5, materialDensity = 6, Square = 314.159265359
+11: Parallelepiped: x = 10, y = 10, z = 10, materialDensity = 7, Square = 600.0
+12: Ball: r = 13, materialDensity = 5, Square = 2123.71663383
+13: Parallelepiped: x = 5, y = 6, z = 99, materialDensity = 2, Square = 2238.0
+14: Ball: r = 55, materialDensity = 33, Square = 38013.2711084
+15: Ball: r = 66, materialDensity = 66, Square = 54739.1103961
+16: Tetrahedron: a = 330, materialDensity = 3, Square = 188620.332944

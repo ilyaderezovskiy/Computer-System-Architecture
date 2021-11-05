@@ -1,0 +1,1001 @@
+Container contains 1000 elements:
+1: Tetrahedron: a = 1, materialDensity = 11, Square = 1.73205080757
+2: Tetrahedron: a = 1, materialDensity = 1, Square = 1.73205080757
+3: Tetrahedron: a = 1, materialDensity = 18, Square = 1.73205080757
+4: Tetrahedron: a = 1, materialDensity = 14, Square = 1.73205080757
+5: Tetrahedron: a = 1, materialDensity = 12, Square = 1.73205080757
+6: Tetrahedron: a = 1, materialDensity = 11, Square = 1.73205080757
+7: Tetrahedron: a = 1, materialDensity = 16, Square = 1.73205080757
+8: Tetrahedron: a = 1, materialDensity = 1, Square = 1.73205080757
+9: Tetrahedron: a = 1, materialDensity = 5, Square = 1.73205080757
+10: Tetrahedron: a = 1, materialDensity = 13, Square = 1.73205080757
+11: Tetrahedron: a = 1, materialDensity = 10, Square = 1.73205080757
+12: Tetrahedron: a = 1, materialDensity = 17, Square = 1.73205080757
+13: Tetrahedron: a = 1, materialDensity = 10, Square = 1.73205080757
+14: Tetrahedron: a = 1, materialDensity = 1, Square = 1.73205080757
+15: Tetrahedron: a = 1, materialDensity = 1, Square = 1.73205080757
+16: Tetrahedron: a = 1, materialDensity = 9, Square = 1.73205080757
+17: Tetrahedron: a = 2, materialDensity = 1, Square = 6.92820323028
+18: Tetrahedron: a = 2, materialDensity = 12, Square = 6.92820323028
+19: Tetrahedron: a = 2, materialDensity = 6, Square = 6.92820323028
+20: Tetrahedron: a = 2, materialDensity = 2, Square = 6.92820323028
+21: Tetrahedron: a = 2, materialDensity = 1, Square = 6.92820323028
+22: Tetrahedron: a = 2, materialDensity = 16, Square = 6.92820323028
+23: Tetrahedron: a = 2, materialDensity = 8, Square = 6.92820323028
+24: Tetrahedron: a = 2, materialDensity = 3, Square = 6.92820323028
+25: Tetrahedron: a = 2, materialDensity = 12, Square = 6.92820323028
+26: Tetrahedron: a = 2, materialDensity = 2, Square = 6.92820323028
+27: Tetrahedron: a = 2, materialDensity = 7, Square = 6.92820323028
+28: Tetrahedron: a = 2, materialDensity = 14, Square = 6.92820323028
+29: Tetrahedron: a = 2, materialDensity = 1, Square = 6.92820323028
+30: Tetrahedron: a = 2, materialDensity = 9, Square = 6.92820323028
+31: Tetrahedron: a = 2, materialDensity = 3, Square = 6.92820323028
+32: Tetrahedron: a = 2, materialDensity = 9, Square = 6.92820323028
+33: Tetrahedron: a = 2, materialDensity = 11, Square = 6.92820323028
+34: Tetrahedron: a = 2, materialDensity = 14, Square = 6.92820323028
+35: Tetrahedron: a = 2, materialDensity = 1, Square = 6.92820323028
+36: Ball: r = 1, materialDensity = 11, Square = 12.5663706144
+37: Ball: r = 1, materialDensity = 13, Square = 12.5663706144
+38: Ball: r = 1, materialDensity = 10, Square = 12.5663706144
+39: Ball: r = 1, materialDensity = 11, Square = 12.5663706144
+40: Ball: r = 1, materialDensity = 15, Square = 12.5663706144
+41: Ball: r = 1, materialDensity = 14, Square = 12.5663706144
+42: Ball: r = 1, materialDensity = 5, Square = 12.5663706144
+43: Ball: r = 1, materialDensity = 18, Square = 12.5663706144
+44: Ball: r = 1, materialDensity = 12, Square = 12.5663706144
+45: Ball: r = 1, materialDensity = 6, Square = 12.5663706144
+46: Ball: r = 1, materialDensity = 3, Square = 12.5663706144
+47: Ball: r = 1, materialDensity = 5, Square = 12.5663706144
+48: Ball: r = 1, materialDensity = 10, Square = 12.5663706144
+49: Ball: r = 1, materialDensity = 19, Square = 12.5663706144
+50: Ball: r = 1, materialDensity = 4, Square = 12.5663706144
+51: Ball: r = 1, materialDensity = 17, Square = 12.5663706144
+52: Ball: r = 1, materialDensity = 20, Square = 12.5663706144
+53: Ball: r = 1, materialDensity = 11, Square = 12.5663706144
+54: Tetrahedron: a = 3, materialDensity = 6, Square = 15.5884572681
+55: Tetrahedron: a = 3, materialDensity = 20, Square = 15.5884572681
+56: Tetrahedron: a = 3, materialDensity = 4, Square = 15.5884572681
+57: Tetrahedron: a = 3, materialDensity = 14, Square = 15.5884572681
+58: Tetrahedron: a = 3, materialDensity = 17, Square = 15.5884572681
+59: Tetrahedron: a = 3, materialDensity = 2, Square = 15.5884572681
+60: Tetrahedron: a = 3, materialDensity = 9, Square = 15.5884572681
+61: Tetrahedron: a = 3, materialDensity = 11, Square = 15.5884572681
+62: Tetrahedron: a = 3, materialDensity = 9, Square = 15.5884572681
+63: Tetrahedron: a = 3, materialDensity = 12, Square = 15.5884572681
+64: Tetrahedron: a = 3, materialDensity = 3, Square = 15.5884572681
+65: Tetrahedron: a = 3, materialDensity = 7, Square = 15.5884572681
+66: Tetrahedron: a = 3, materialDensity = 7, Square = 15.5884572681
+67: Tetrahedron: a = 3, materialDensity = 15, Square = 15.5884572681
+68: Tetrahedron: a = 3, materialDensity = 11, Square = 15.5884572681
+69: Tetrahedron: a = 3, materialDensity = 13, Square = 15.5884572681
+70: Tetrahedron: a = 3, materialDensity = 18, Square = 15.5884572681
+71: Tetrahedron: a = 3, materialDensity = 4, Square = 15.5884572681
+72: Tetrahedron: a = 3, materialDensity = 15, Square = 15.5884572681
+73: Tetrahedron: a = 3, materialDensity = 4, Square = 15.5884572681
+74: Tetrahedron: a = 3, materialDensity = 13, Square = 15.5884572681
+75: Tetrahedron: a = 3, materialDensity = 14, Square = 15.5884572681
+76: Tetrahedron: a = 3, materialDensity = 5, Square = 15.5884572681
+77: Tetrahedron: a = 3, materialDensity = 18, Square = 15.5884572681
+78: Tetrahedron: a = 3, materialDensity = 14, Square = 15.5884572681
+79: Tetrahedron: a = 3, materialDensity = 19, Square = 15.5884572681
+80: Tetrahedron: a = 3, materialDensity = 20, Square = 15.5884572681
+81: Tetrahedron: a = 3, materialDensity = 17, Square = 15.5884572681
+82: Tetrahedron: a = 3, materialDensity = 13, Square = 15.5884572681
+83: Tetrahedron: a = 3, materialDensity = 15, Square = 15.5884572681
+84: Tetrahedron: a = 3, materialDensity = 19, Square = 15.5884572681
+85: Tetrahedron: a = 3, materialDensity = 8, Square = 15.5884572681
+86: Parallelepiped: x = 3, y = 1, z = 2, materialDensity = 15, Square = 22.0
+87: Tetrahedron: a = 4, materialDensity = 6, Square = 27.7128129211
+88: Tetrahedron: a = 4, materialDensity = 5, Square = 27.7128129211
+89: Tetrahedron: a = 4, materialDensity = 20, Square = 27.7128129211
+90: Tetrahedron: a = 4, materialDensity = 13, Square = 27.7128129211
+91: Tetrahedron: a = 4, materialDensity = 20, Square = 27.7128129211
+92: Tetrahedron: a = 4, materialDensity = 12, Square = 27.7128129211
+93: Tetrahedron: a = 4, materialDensity = 1, Square = 27.7128129211
+94: Tetrahedron: a = 4, materialDensity = 19, Square = 27.7128129211
+95: Tetrahedron: a = 4, materialDensity = 4, Square = 27.7128129211
+96: Tetrahedron: a = 4, materialDensity = 1, Square = 27.7128129211
+97: Tetrahedron: a = 4, materialDensity = 3, Square = 27.7128129211
+98: Tetrahedron: a = 4, materialDensity = 15, Square = 27.7128129211
+99: Tetrahedron: a = 4, materialDensity = 13, Square = 27.7128129211
+100: Tetrahedron: a = 4, materialDensity = 14, Square = 27.7128129211
+101: Tetrahedron: a = 4, materialDensity = 9, Square = 27.7128129211
+102: Tetrahedron: a = 4, materialDensity = 15, Square = 27.7128129211
+103: Tetrahedron: a = 4, materialDensity = 20, Square = 27.7128129211
+104: Tetrahedron: a = 4, materialDensity = 17, Square = 27.7128129211
+105: Tetrahedron: a = 4, materialDensity = 20, Square = 27.7128129211
+106: Parallelepiped: x = 1, y = 1, z = 9, materialDensity = 13, Square = 38.0
+107: Parallelepiped: x = 4, y = 3, z = 1, materialDensity = 14, Square = 38.0
+108: Tetrahedron: a = 5, materialDensity = 6, Square = 43.3012701892
+109: Tetrahedron: a = 5, materialDensity = 12, Square = 43.3012701892
+110: Tetrahedron: a = 5, materialDensity = 17, Square = 43.3012701892
+111: Tetrahedron: a = 5, materialDensity = 9, Square = 43.3012701892
+112: Tetrahedron: a = 5, materialDensity = 7, Square = 43.3012701892
+113: Tetrahedron: a = 5, materialDensity = 17, Square = 43.3012701892
+114: Tetrahedron: a = 5, materialDensity = 10, Square = 43.3012701892
+115: Tetrahedron: a = 5, materialDensity = 9, Square = 43.3012701892
+116: Tetrahedron: a = 5, materialDensity = 9, Square = 43.3012701892
+117: Tetrahedron: a = 5, materialDensity = 12, Square = 43.3012701892
+118: Tetrahedron: a = 5, materialDensity = 18, Square = 43.3012701892
+119: Tetrahedron: a = 5, materialDensity = 7, Square = 43.3012701892
+120: Tetrahedron: a = 5, materialDensity = 5, Square = 43.3012701892
+121: Tetrahedron: a = 5, materialDensity = 13, Square = 43.3012701892
+122: Tetrahedron: a = 5, materialDensity = 19, Square = 43.3012701892
+123: Tetrahedron: a = 5, materialDensity = 8, Square = 43.3012701892
+124: Tetrahedron: a = 5, materialDensity = 9, Square = 43.3012701892
+125: Parallelepiped: x = 3, y = 1, z = 5, materialDensity = 17, Square = 46.0
+126: Parallelepiped: x = 1, y = 2, z = 7, materialDensity = 12, Square = 46.0
+127: Parallelepiped: x = 2, y = 2, z = 5, materialDensity = 7, Square = 48.0
+128: Ball: r = 2, materialDensity = 4, Square = 50.2654824574
+129: Ball: r = 2, materialDensity = 12, Square = 50.2654824574
+130: Ball: r = 2, materialDensity = 20, Square = 50.2654824574
+131: Ball: r = 2, materialDensity = 1, Square = 50.2654824574
+132: Ball: r = 2, materialDensity = 17, Square = 50.2654824574
+133: Ball: r = 2, materialDensity = 17, Square = 50.2654824574
+134: Ball: r = 2, materialDensity = 10, Square = 50.2654824574
+135: Ball: r = 2, materialDensity = 19, Square = 50.2654824574
+136: Ball: r = 2, materialDensity = 20, Square = 50.2654824574
+137: Ball: r = 2, materialDensity = 12, Square = 50.2654824574
+138: Ball: r = 2, materialDensity = 19, Square = 50.2654824574
+139: Ball: r = 2, materialDensity = 17, Square = 50.2654824574
+140: Ball: r = 2, materialDensity = 9, Square = 50.2654824574
+141: Ball: r = 2, materialDensity = 9, Square = 50.2654824574
+142: Ball: r = 2, materialDensity = 19, Square = 50.2654824574
+143: Ball: r = 2, materialDensity = 7, Square = 50.2654824574
+144: Ball: r = 2, materialDensity = 17, Square = 50.2654824574
+145: Ball: r = 2, materialDensity = 15, Square = 50.2654824574
+146: Ball: r = 2, materialDensity = 18, Square = 50.2654824574
+147: Ball: r = 2, materialDensity = 13, Square = 50.2654824574
+148: Ball: r = 2, materialDensity = 19, Square = 50.2654824574
+149: Ball: r = 2, materialDensity = 10, Square = 50.2654824574
+150: Ball: r = 2, materialDensity = 6, Square = 50.2654824574
+151: Parallelepiped: x = 8, y = 1, z = 2, materialDensity = 14, Square = 52.0
+152: Parallelepiped: x = 1, y = 4, z = 5, materialDensity = 9, Square = 58.0
+153: Parallelepiped: x = 1, y = 1, z = 15, materialDensity = 5, Square = 62.0
+154: Tetrahedron: a = 6, materialDensity = 6, Square = 62.3538290725
+155: Tetrahedron: a = 6, materialDensity = 20, Square = 62.3538290725
+156: Tetrahedron: a = 6, materialDensity = 1, Square = 62.3538290725
+157: Tetrahedron: a = 6, materialDensity = 3, Square = 62.3538290725
+158: Tetrahedron: a = 6, materialDensity = 20, Square = 62.3538290725
+159: Tetrahedron: a = 6, materialDensity = 18, Square = 62.3538290725
+160: Tetrahedron: a = 6, materialDensity = 10, Square = 62.3538290725
+161: Tetrahedron: a = 6, materialDensity = 8, Square = 62.3538290725
+162: Tetrahedron: a = 6, materialDensity = 16, Square = 62.3538290725
+163: Tetrahedron: a = 6, materialDensity = 18, Square = 62.3538290725
+164: Tetrahedron: a = 6, materialDensity = 10, Square = 62.3538290725
+165: Tetrahedron: a = 6, materialDensity = 19, Square = 62.3538290725
+166: Tetrahedron: a = 6, materialDensity = 11, Square = 62.3538290725
+167: Tetrahedron: a = 6, materialDensity = 18, Square = 62.3538290725
+168: Tetrahedron: a = 6, materialDensity = 5, Square = 62.3538290725
+169: Tetrahedron: a = 6, materialDensity = 7, Square = 62.3538290725
+170: Parallelepiped: x = 2, y = 2, z = 7, materialDensity = 16, Square = 64.0
+171: Parallelepiped: x = 4, y = 1, z = 6, materialDensity = 2, Square = 68.0
+172: Parallelepiped: x = 1, y = 2, z = 11, materialDensity = 15, Square = 70.0
+173: Parallelepiped: x = 5, y = 1, z = 5, materialDensity = 13, Square = 70.0
+174: Parallelepiped: x = 12, y = 2, z = 1, materialDensity = 14, Square = 76.0
+175: Parallelepiped: x = 1, y = 4, z = 7, materialDensity = 13, Square = 78.0
+176: Parallelepiped: x = 4, y = 1, z = 7, materialDensity = 20, Square = 78.0
+177: Tetrahedron: a = 7, materialDensity = 13, Square = 84.8704895709
+178: Tetrahedron: a = 7, materialDensity = 2, Square = 84.8704895709
+179: Tetrahedron: a = 7, materialDensity = 4, Square = 84.8704895709
+180: Tetrahedron: a = 7, materialDensity = 13, Square = 84.8704895709
+181: Tetrahedron: a = 7, materialDensity = 4, Square = 84.8704895709
+182: Tetrahedron: a = 7, materialDensity = 18, Square = 84.8704895709
+183: Tetrahedron: a = 7, materialDensity = 9, Square = 84.8704895709
+184: Tetrahedron: a = 7, materialDensity = 7, Square = 84.8704895709
+185: Tetrahedron: a = 7, materialDensity = 1, Square = 84.8704895709
+186: Tetrahedron: a = 7, materialDensity = 6, Square = 84.8704895709
+187: Tetrahedron: a = 7, materialDensity = 1, Square = 84.8704895709
+188: Tetrahedron: a = 7, materialDensity = 11, Square = 84.8704895709
+189: Tetrahedron: a = 7, materialDensity = 17, Square = 84.8704895709
+190: Parallelepiped: x = 2, y = 1, z = 14, materialDensity = 9, Square = 88.0
+191: Parallelepiped: x = 1, y = 15, z = 2, materialDensity = 14, Square = 94.0
+192: Tetrahedron: a = 8, materialDensity = 11, Square = 110.851251684
+193: Tetrahedron: a = 8, materialDensity = 5, Square = 110.851251684
+194: Tetrahedron: a = 8, materialDensity = 6, Square = 110.851251684
+195: Tetrahedron: a = 8, materialDensity = 13, Square = 110.851251684
+196: Tetrahedron: a = 8, materialDensity = 2, Square = 110.851251684
+197: Tetrahedron: a = 8, materialDensity = 19, Square = 110.851251684
+198: Tetrahedron: a = 8, materialDensity = 12, Square = 110.851251684
+199: Tetrahedron: a = 8, materialDensity = 7, Square = 110.851251684
+200: Tetrahedron: a = 8, materialDensity = 7, Square = 110.851251684
+201: Tetrahedron: a = 8, materialDensity = 4, Square = 110.851251684
+202: Tetrahedron: a = 8, materialDensity = 8, Square = 110.851251684
+203: Tetrahedron: a = 8, materialDensity = 11, Square = 110.851251684
+204: Tetrahedron: a = 8, materialDensity = 20, Square = 110.851251684
+205: Tetrahedron: a = 8, materialDensity = 16, Square = 110.851251684
+206: Tetrahedron: a = 8, materialDensity = 7, Square = 110.851251684
+207: Tetrahedron: a = 8, materialDensity = 6, Square = 110.851251684
+208: Tetrahedron: a = 8, materialDensity = 4, Square = 110.851251684
+209: Tetrahedron: a = 8, materialDensity = 17, Square = 110.851251684
+210: Parallelepiped: x = 3, y = 10, z = 2, materialDensity = 13, Square = 112.0
+211: Parallelepiped: x = 4, y = 2, z = 8, materialDensity = 13, Square = 112.0
+212: Ball: r = 3, materialDensity = 11, Square = 113.097335529
+213: Ball: r = 3, materialDensity = 8, Square = 113.097335529
+214: Ball: r = 3, materialDensity = 19, Square = 113.097335529
+215: Ball: r = 3, materialDensity = 10, Square = 113.097335529
+216: Ball: r = 3, materialDensity = 20, Square = 113.097335529
+217: Ball: r = 3, materialDensity = 3, Square = 113.097335529
+218: Ball: r = 3, materialDensity = 1, Square = 113.097335529
+219: Ball: r = 3, materialDensity = 13, Square = 113.097335529
+220: Ball: r = 3, materialDensity = 13, Square = 113.097335529
+221: Ball: r = 3, materialDensity = 19, Square = 113.097335529
+222: Ball: r = 3, materialDensity = 8, Square = 113.097335529
+223: Ball: r = 3, materialDensity = 3, Square = 113.097335529
+224: Ball: r = 3, materialDensity = 16, Square = 113.097335529
+225: Ball: r = 3, materialDensity = 1, Square = 113.097335529
+226: Ball: r = 3, materialDensity = 11, Square = 113.097335529
+227: Ball: r = 3, materialDensity = 14, Square = 113.097335529
+228: Parallelepiped: x = 1, y = 2, z = 19, materialDensity = 13, Square = 118.0
+229: Parallelepiped: x = 11, y = 4, z = 1, materialDensity = 1, Square = 118.0
+230: Parallelepiped: x = 1, y = 8, z = 6, materialDensity = 18, Square = 124.0
+231: Parallelepiped: x = 6, y = 3, z = 5, materialDensity = 15, Square = 126.0
+232: Parallelepiped: x = 5, y = 3, z = 6, materialDensity = 2, Square = 126.0
+233: Parallelepiped: x = 3, y = 9, z = 3, materialDensity = 8, Square = 126.0
+234: Parallelepiped: x = 6, y = 7, z = 2, materialDensity = 18, Square = 136.0
+235: Parallelepiped: x = 3, y = 3, z = 10, materialDensity = 19, Square = 138.0
+236: Tetrahedron: a = 9, materialDensity = 20, Square = 140.296115413
+237: Tetrahedron: a = 9, materialDensity = 13, Square = 140.296115413
+238: Tetrahedron: a = 9, materialDensity = 8, Square = 140.296115413
+239: Tetrahedron: a = 9, materialDensity = 9, Square = 140.296115413
+240: Tetrahedron: a = 9, materialDensity = 12, Square = 140.296115413
+241: Tetrahedron: a = 9, materialDensity = 3, Square = 140.296115413
+242: Tetrahedron: a = 9, materialDensity = 16, Square = 140.296115413
+243: Tetrahedron: a = 9, materialDensity = 9, Square = 140.296115413
+244: Tetrahedron: a = 9, materialDensity = 11, Square = 140.296115413
+245: Tetrahedron: a = 9, materialDensity = 12, Square = 140.296115413
+246: Tetrahedron: a = 9, materialDensity = 19, Square = 140.296115413
+247: Tetrahedron: a = 9, materialDensity = 14, Square = 140.296115413
+248: Tetrahedron: a = 9, materialDensity = 11, Square = 140.296115413
+249: Tetrahedron: a = 9, materialDensity = 18, Square = 140.296115413
+250: Tetrahedron: a = 9, materialDensity = 11, Square = 140.296115413
+251: Tetrahedron: a = 9, materialDensity = 19, Square = 140.296115413
+252: Parallelepiped: x = 8, y = 7, z = 1, materialDensity = 6, Square = 142.0
+253: Parallelepiped: x = 5, y = 1, z = 11, materialDensity = 1, Square = 142.0
+254: Parallelepiped: x = 5, y = 1, z = 12, materialDensity = 18, Square = 154.0
+255: Parallelepiped: x = 12, y = 5, z = 1, materialDensity = 11, Square = 154.0
+256: Parallelepiped: x = 8, y = 3, z = 5, materialDensity = 6, Square = 158.0
+257: Parallelepiped: x = 12, y = 4, z = 2, materialDensity = 18, Square = 160.0
+258: Parallelepiped: x = 2, y = 16, z = 3, materialDensity = 16, Square = 172.0
+259: Parallelepiped: x = 2, y = 4, z = 13, materialDensity = 20, Square = 172.0
+260: Tetrahedron: a = 10, materialDensity = 11, Square = 173.205080757
+261: Tetrahedron: a = 10, materialDensity = 2, Square = 173.205080757
+262: Tetrahedron: a = 10, materialDensity = 11, Square = 173.205080757
+263: Tetrahedron: a = 10, materialDensity = 14, Square = 173.205080757
+264: Tetrahedron: a = 10, materialDensity = 8, Square = 173.205080757
+265: Tetrahedron: a = 10, materialDensity = 12, Square = 173.205080757
+266: Tetrahedron: a = 10, materialDensity = 20, Square = 173.205080757
+267: Tetrahedron: a = 10, materialDensity = 10, Square = 173.205080757
+268: Tetrahedron: a = 10, materialDensity = 13, Square = 173.205080757
+269: Tetrahedron: a = 10, materialDensity = 3, Square = 173.205080757
+270: Tetrahedron: a = 10, materialDensity = 4, Square = 173.205080757
+271: Tetrahedron: a = 10, materialDensity = 13, Square = 173.205080757
+272: Parallelepiped: x = 9, y = 4, z = 4, materialDensity = 19, Square = 176.0
+273: Parallelepiped: x = 1, y = 5, z = 14, materialDensity = 2, Square = 178.0
+274: Parallelepiped: x = 4, y = 1, z = 17, materialDensity = 5, Square = 178.0
+275: Parallelepiped: x = 4, y = 3, z = 11, materialDensity = 5, Square = 178.0
+276: Parallelepiped: x = 4, y = 1, z = 18, materialDensity = 11, Square = 188.0
+277: Parallelepiped: x = 7, y = 6, z = 4, materialDensity = 6, Square = 188.0
+278: Parallelepiped: x = 5, y = 12, z = 2, materialDensity = 10, Square = 188.0
+279: Parallelepiped: x = 3, y = 10, z = 5, materialDensity = 4, Square = 190.0
+280: Parallelepiped: x = 2, y = 3, z = 18, materialDensity = 2, Square = 192.0
+281: Parallelepiped: x = 4, y = 10, z = 4, materialDensity = 9, Square = 192.0
+282: Parallelepiped: x = 13, y = 1, z = 6, materialDensity = 5, Square = 194.0
+283: Parallelepiped: x = 15, y = 4, z = 2, materialDensity = 4, Square = 196.0
+284: Ball: r = 4, materialDensity = 17, Square = 201.06192983
+285: Ball: r = 4, materialDensity = 1, Square = 201.06192983
+286: Ball: r = 4, materialDensity = 6, Square = 201.06192983
+287: Ball: r = 4, materialDensity = 13, Square = 201.06192983
+288: Ball: r = 4, materialDensity = 2, Square = 201.06192983
+289: Ball: r = 4, materialDensity = 9, Square = 201.06192983
+290: Ball: r = 4, materialDensity = 18, Square = 201.06192983
+291: Ball: r = 4, materialDensity = 16, Square = 201.06192983
+292: Ball: r = 4, materialDensity = 3, Square = 201.06192983
+293: Ball: r = 4, materialDensity = 6, Square = 201.06192983
+294: Ball: r = 4, materialDensity = 3, Square = 201.06192983
+295: Ball: r = 4, materialDensity = 1, Square = 201.06192983
+296: Ball: r = 4, materialDensity = 3, Square = 201.06192983
+297: Ball: r = 4, materialDensity = 4, Square = 201.06192983
+298: Ball: r = 4, materialDensity = 3, Square = 201.06192983
+299: Ball: r = 4, materialDensity = 6, Square = 201.06192983
+300: Ball: r = 4, materialDensity = 2, Square = 201.06192983
+301: Ball: r = 4, materialDensity = 10, Square = 201.06192983
+302: Ball: r = 4, materialDensity = 5, Square = 201.06192983
+303: Ball: r = 4, materialDensity = 13, Square = 201.06192983
+304: Ball: r = 4, materialDensity = 11, Square = 201.06192983
+305: Ball: r = 4, materialDensity = 12, Square = 201.06192983
+306: Parallelepiped: x = 2, y = 5, z = 13, materialDensity = 17, Square = 202.0
+307: Parallelepiped: x = 3, y = 2, z = 19, materialDensity = 13, Square = 202.0
+308: Parallelepiped: x = 7, y = 3, z = 8, materialDensity = 14, Square = 202.0
+309: Parallelepiped: x = 3, y = 4, z = 13, materialDensity = 4, Square = 206.0
+310: Parallelepiped: x = 2, y = 16, z = 4, materialDensity = 12, Square = 208.0
+311: Parallelepiped: x = 8, y = 6, z = 4, materialDensity = 17, Square = 208.0
+312: Parallelepiped: x = 8, y = 4, z = 6, materialDensity = 17, Square = 208.0
+313: Tetrahedron: a = 11, materialDensity = 3, Square = 209.578147716
+314: Tetrahedron: a = 11, materialDensity = 11, Square = 209.578147716
+315: Tetrahedron: a = 11, materialDensity = 10, Square = 209.578147716
+316: Tetrahedron: a = 11, materialDensity = 8, Square = 209.578147716
+317: Tetrahedron: a = 11, materialDensity = 7, Square = 209.578147716
+318: Tetrahedron: a = 11, materialDensity = 8, Square = 209.578147716
+319: Tetrahedron: a = 11, materialDensity = 2, Square = 209.578147716
+320: Tetrahedron: a = 11, materialDensity = 20, Square = 209.578147716
+321: Tetrahedron: a = 11, materialDensity = 9, Square = 209.578147716
+322: Tetrahedron: a = 11, materialDensity = 17, Square = 209.578147716
+323: Tetrahedron: a = 11, materialDensity = 6, Square = 209.578147716
+324: Tetrahedron: a = 11, materialDensity = 5, Square = 209.578147716
+325: Tetrahedron: a = 11, materialDensity = 14, Square = 209.578147716
+326: Parallelepiped: x = 6, y = 12, z = 2, materialDensity = 19, Square = 216.0
+327: Parallelepiped: x = 3, y = 7, z = 9, materialDensity = 5, Square = 222.0
+328: Parallelepiped: x = 5, y = 12, z = 3, materialDensity = 8, Square = 222.0
+329: Parallelepiped: x = 2, y = 4, z = 18, materialDensity = 18, Square = 232.0
+330: Parallelepiped: x = 4, y = 10, z = 6, materialDensity = 11, Square = 248.0
+331: Parallelepiped: x = 16, y = 4, z = 3, materialDensity = 6, Square = 248.0
+332: Tetrahedron: a = 12, materialDensity = 8, Square = 249.41531629
+333: Tetrahedron: a = 12, materialDensity = 15, Square = 249.41531629
+334: Tetrahedron: a = 12, materialDensity = 18, Square = 249.41531629
+335: Tetrahedron: a = 12, materialDensity = 6, Square = 249.41531629
+336: Tetrahedron: a = 12, materialDensity = 6, Square = 249.41531629
+337: Tetrahedron: a = 12, materialDensity = 19, Square = 249.41531629
+338: Tetrahedron: a = 12, materialDensity = 2, Square = 249.41531629
+339: Tetrahedron: a = 12, materialDensity = 8, Square = 249.41531629
+340: Tetrahedron: a = 12, materialDensity = 14, Square = 249.41531629
+341: Tetrahedron: a = 12, materialDensity = 2, Square = 249.41531629
+342: Tetrahedron: a = 12, materialDensity = 14, Square = 249.41531629
+343: Tetrahedron: a = 12, materialDensity = 12, Square = 249.41531629
+344: Tetrahedron: a = 12, materialDensity = 7, Square = 249.41531629
+345: Tetrahedron: a = 12, materialDensity = 16, Square = 249.41531629
+346: Tetrahedron: a = 12, materialDensity = 10, Square = 249.41531629
+347: Tetrahedron: a = 12, materialDensity = 10, Square = 249.41531629
+348: Tetrahedron: a = 12, materialDensity = 7, Square = 249.41531629
+349: Tetrahedron: a = 12, materialDensity = 14, Square = 249.41531629
+350: Tetrahedron: a = 12, materialDensity = 15, Square = 249.41531629
+351: Parallelepiped: x = 8, y = 13, z = 1, materialDensity = 12, Square = 250.0
+352: Parallelepiped: x = 4, y = 7, z = 9, materialDensity = 3, Square = 254.0
+353: Parallelepiped: x = 14, y = 4, z = 4, materialDensity = 14, Square = 256.0
+354: Parallelepiped: x = 2, y = 9, z = 10, materialDensity = 14, Square = 256.0
+355: Parallelepiped: x = 17, y = 2, z = 5, materialDensity = 8, Square = 258.0
+356: Parallelepiped: x = 8, y = 5, z = 7, materialDensity = 10, Square = 262.0
+357: Parallelepiped: x = 13, y = 7, z = 2, materialDensity = 6, Square = 262.0
+358: Parallelepiped: x = 1, y = 8, z = 14, materialDensity = 16, Square = 268.0
+359: Parallelepiped: x = 18, y = 3, z = 4, materialDensity = 20, Square = 276.0
+360: Parallelepiped: x = 4, y = 8, z = 9, materialDensity = 12, Square = 280.0
+361: Parallelepiped: x = 1, y = 10, z = 12, materialDensity = 20, Square = 284.0
+362: Parallelepiped: x = 16, y = 5, z = 3, materialDensity = 4, Square = 286.0
+363: Parallelepiped: x = 1, y = 15, z = 8, materialDensity = 14, Square = 286.0
+364: Parallelepiped: x = 3, y = 16, z = 5, materialDensity = 1, Square = 286.0
+365: Parallelepiped: x = 4, y = 4, z = 16, materialDensity = 20, Square = 288.0
+366: Parallelepiped: x = 6, y = 1, z = 20, materialDensity = 8, Square = 292.0
+367: Parallelepiped: x = 2, y = 8, z = 13, materialDensity = 2, Square = 292.0
+368: Parallelepiped: x = 4, y = 5, z = 14, materialDensity = 19, Square = 292.0
+369: Tetrahedron: a = 13, materialDensity = 8, Square = 292.716586479
+370: Tetrahedron: a = 13, materialDensity = 19, Square = 292.716586479
+371: Tetrahedron: a = 13, materialDensity = 17, Square = 292.716586479
+372: Tetrahedron: a = 13, materialDensity = 10, Square = 292.716586479
+373: Tetrahedron: a = 13, materialDensity = 18, Square = 292.716586479
+374: Tetrahedron: a = 13, materialDensity = 19, Square = 292.716586479
+375: Tetrahedron: a = 13, materialDensity = 15, Square = 292.716586479
+376: Tetrahedron: a = 13, materialDensity = 7, Square = 292.716586479
+377: Tetrahedron: a = 13, materialDensity = 4, Square = 292.716586479
+378: Tetrahedron: a = 13, materialDensity = 2, Square = 292.716586479
+379: Tetrahedron: a = 13, materialDensity = 19, Square = 292.716586479
+380: Tetrahedron: a = 13, materialDensity = 7, Square = 292.716586479
+381: Tetrahedron: a = 13, materialDensity = 4, Square = 292.716586479
+382: Tetrahedron: a = 13, materialDensity = 3, Square = 292.716586479
+383: Tetrahedron: a = 13, materialDensity = 4, Square = 292.716586479
+384: Tetrahedron: a = 13, materialDensity = 11, Square = 292.716586479
+385: Tetrahedron: a = 13, materialDensity = 10, Square = 292.716586479
+386: Parallelepiped: x = 7, y = 15, z = 2, materialDensity = 7, Square = 298.0
+387: Parallelepiped: x = 1, y = 14, z = 9, materialDensity = 3, Square = 298.0
+388: Parallelepiped: x = 5, y = 3, z = 17, materialDensity = 2, Square = 302.0
+389: Parallelepiped: x = 11, y = 10, z = 2, materialDensity = 15, Square = 304.0
+390: Parallelepiped: x = 10, y = 13, z = 1, materialDensity = 1, Square = 306.0
+391: Parallelepiped: x = 6, y = 3, z = 15, materialDensity = 4, Square = 306.0
+392: Parallelepiped: x = 10, y = 13, z = 1, materialDensity = 11, Square = 306.0
+393: Parallelepiped: x = 1, y = 11, z = 12, materialDensity = 4, Square = 310.0
+394: Parallelepiped: x = 12, y = 1, z = 11, materialDensity = 12, Square = 310.0
+395: Parallelepiped: x = 11, y = 1, z = 12, materialDensity = 13, Square = 310.0
+396: Parallelepiped: x = 4, y = 5, z = 15, materialDensity = 3, Square = 310.0
+397: Parallelepiped: x = 2, y = 8, z = 14, materialDensity = 3, Square = 312.0
+398: Ball: r = 5, materialDensity = 1, Square = 314.159265359
+399: Ball: r = 5, materialDensity = 8, Square = 314.159265359
+400: Ball: r = 5, materialDensity = 9, Square = 314.159265359
+401: Ball: r = 5, materialDensity = 18, Square = 314.159265359
+402: Ball: r = 5, materialDensity = 19, Square = 314.159265359
+403: Ball: r = 5, materialDensity = 10, Square = 314.159265359
+404: Ball: r = 5, materialDensity = 18, Square = 314.159265359
+405: Ball: r = 5, materialDensity = 19, Square = 314.159265359
+406: Ball: r = 5, materialDensity = 16, Square = 314.159265359
+407: Ball: r = 5, materialDensity = 8, Square = 314.159265359
+408: Ball: r = 5, materialDensity = 10, Square = 314.159265359
+409: Ball: r = 5, materialDensity = 1, Square = 314.159265359
+410: Ball: r = 5, materialDensity = 16, Square = 314.159265359
+411: Ball: r = 5, materialDensity = 16, Square = 314.159265359
+412: Ball: r = 5, materialDensity = 13, Square = 314.159265359
+413: Ball: r = 5, materialDensity = 1, Square = 314.159265359
+414: Ball: r = 5, materialDensity = 18, Square = 314.159265359
+415: Ball: r = 5, materialDensity = 2, Square = 314.159265359
+416: Ball: r = 5, materialDensity = 17, Square = 314.159265359
+417: Ball: r = 5, materialDensity = 8, Square = 314.159265359
+418: Parallelepiped: x = 1, y = 19, z = 7, materialDensity = 12, Square = 318.0
+419: Parallelepiped: x = 19, y = 1, z = 7, materialDensity = 11, Square = 318.0
+420: Parallelepiped: x = 10, y = 10, z = 3, materialDensity = 15, Square = 320.0
+421: Parallelepiped: x = 3, y = 7, z = 14, materialDensity = 1, Square = 322.0
+422: Parallelepiped: x = 14, y = 4, z = 6, materialDensity = 11, Square = 328.0
+423: Tetrahedron: a = 14, materialDensity = 2, Square = 339.481958283
+424: Tetrahedron: a = 14, materialDensity = 20, Square = 339.481958283
+425: Tetrahedron: a = 14, materialDensity = 2, Square = 339.481958283
+426: Tetrahedron: a = 14, materialDensity = 8, Square = 339.481958283
+427: Tetrahedron: a = 14, materialDensity = 2, Square = 339.481958283
+428: Tetrahedron: a = 14, materialDensity = 16, Square = 339.481958283
+429: Tetrahedron: a = 14, materialDensity = 12, Square = 339.481958283
+430: Tetrahedron: a = 14, materialDensity = 12, Square = 339.481958283
+431: Tetrahedron: a = 14, materialDensity = 15, Square = 339.481958283
+432: Tetrahedron: a = 14, materialDensity = 18, Square = 339.481958283
+433: Tetrahedron: a = 14, materialDensity = 15, Square = 339.481958283
+434: Tetrahedron: a = 14, materialDensity = 11, Square = 339.481958283
+435: Tetrahedron: a = 14, materialDensity = 13, Square = 339.481958283
+436: Tetrahedron: a = 14, materialDensity = 19, Square = 339.481958283
+437: Tetrahedron: a = 14, materialDensity = 5, Square = 339.481958283
+438: Parallelepiped: x = 9, y = 12, z = 3, materialDensity = 6, Square = 342.0
+439: Parallelepiped: x = 7, y = 10, z = 6, materialDensity = 15, Square = 344.0
+440: Parallelepiped: x = 4, y = 20, z = 4, materialDensity = 14, Square = 352.0
+441: Parallelepiped: x = 1, y = 9, z = 17, materialDensity = 5, Square = 358.0
+442: Parallelepiped: x = 19, y = 1, z = 8, materialDensity = 17, Square = 358.0
+443: Parallelepiped: x = 3, y = 6, z = 18, materialDensity = 11, Square = 360.0
+444: Parallelepiped: x = 12, y = 3, z = 10, materialDensity = 6, Square = 372.0
+445: Parallelepiped: x = 3, y = 8, z = 15, materialDensity = 19, Square = 378.0
+446: Tetrahedron: a = 15, materialDensity = 14, Square = 389.711431703
+447: Tetrahedron: a = 15, materialDensity = 8, Square = 389.711431703
+448: Tetrahedron: a = 15, materialDensity = 2, Square = 389.711431703
+449: Tetrahedron: a = 15, materialDensity = 19, Square = 389.711431703
+450: Tetrahedron: a = 15, materialDensity = 20, Square = 389.711431703
+451: Tetrahedron: a = 15, materialDensity = 5, Square = 389.711431703
+452: Tetrahedron: a = 15, materialDensity = 18, Square = 389.711431703
+453: Tetrahedron: a = 15, materialDensity = 1, Square = 389.711431703
+454: Tetrahedron: a = 15, materialDensity = 10, Square = 389.711431703
+455: Tetrahedron: a = 15, materialDensity = 16, Square = 389.711431703
+456: Tetrahedron: a = 15, materialDensity = 7, Square = 389.711431703
+457: Tetrahedron: a = 15, materialDensity = 10, Square = 389.711431703
+458: Tetrahedron: a = 15, materialDensity = 8, Square = 389.711431703
+459: Tetrahedron: a = 15, materialDensity = 20, Square = 389.711431703
+460: Parallelepiped: x = 3, y = 8, z = 16, materialDensity = 4, Square = 400.0
+461: Parallelepiped: x = 18, y = 3, z = 7, materialDensity = 13, Square = 402.0
+462: Parallelepiped: x = 3, y = 18, z = 7, materialDensity = 20, Square = 402.0
+463: Parallelepiped: x = 9, y = 6, z = 10, materialDensity = 7, Square = 408.0
+464: Parallelepiped: x = 4, y = 16, z = 7, materialDensity = 19, Square = 408.0
+465: Parallelepiped: x = 2, y = 13, z = 12, materialDensity = 19, Square = 412.0
+466: Parallelepiped: x = 9, y = 3, z = 15, materialDensity = 16, Square = 414.0
+467: Parallelepiped: x = 9, y = 9, z = 7, materialDensity = 8, Square = 414.0
+468: Parallelepiped: x = 1, y = 15, z = 12, materialDensity = 15, Square = 414.0
+469: Parallelepiped: x = 5, y = 13, z = 8, materialDensity = 14, Square = 418.0
+470: Parallelepiped: x = 1, y = 20, z = 9, materialDensity = 13, Square = 418.0
+471: Parallelepiped: x = 7, y = 3, z = 19, materialDensity = 6, Square = 422.0
+472: Parallelepiped: x = 17, y = 7, z = 4, materialDensity = 20, Square = 430.0
+473: Parallelepiped: x = 6, y = 5, z = 17, materialDensity = 11, Square = 434.0
+474: Parallelepiped: x = 15, y = 2, z = 11, materialDensity = 4, Square = 434.0
+475: Parallelepiped: x = 13, y = 13, z = 2, materialDensity = 18, Square = 442.0
+476: Tetrahedron: a = 16, materialDensity = 11, Square = 443.405006738
+477: Tetrahedron: a = 16, materialDensity = 15, Square = 443.405006738
+478: Tetrahedron: a = 16, materialDensity = 8, Square = 443.405006738
+479: Tetrahedron: a = 16, materialDensity = 4, Square = 443.405006738
+480: Tetrahedron: a = 16, materialDensity = 18, Square = 443.405006738
+481: Tetrahedron: a = 16, materialDensity = 18, Square = 443.405006738
+482: Tetrahedron: a = 16, materialDensity = 19, Square = 443.405006738
+483: Tetrahedron: a = 16, materialDensity = 4, Square = 443.405006738
+484: Tetrahedron: a = 16, materialDensity = 1, Square = 443.405006738
+485: Tetrahedron: a = 16, materialDensity = 8, Square = 443.405006738
+486: Tetrahedron: a = 16, materialDensity = 4, Square = 443.405006738
+487: Tetrahedron: a = 16, materialDensity = 12, Square = 443.405006738
+488: Tetrahedron: a = 16, materialDensity = 7, Square = 443.405006738
+489: Tetrahedron: a = 16, materialDensity = 17, Square = 443.405006738
+490: Tetrahedron: a = 16, materialDensity = 14, Square = 443.405006738
+491: Tetrahedron: a = 16, materialDensity = 3, Square = 443.405006738
+492: Tetrahedron: a = 16, materialDensity = 3, Square = 443.405006738
+493: Tetrahedron: a = 16, materialDensity = 20, Square = 443.405006738
+494: Tetrahedron: a = 16, materialDensity = 15, Square = 443.405006738
+495: Parallelepiped: x = 8, y = 14, z = 5, materialDensity = 10, Square = 444.0
+496: Parallelepiped: x = 8, y = 4, z = 16, materialDensity = 6, Square = 448.0
+497: Parallelepiped: x = 14, y = 1, z = 14, materialDensity = 19, Square = 448.0
+498: Parallelepiped: x = 15, y = 3, z = 10, materialDensity = 16, Square = 450.0
+499: Ball: r = 6, materialDensity = 11, Square = 452.389342117
+500: Ball: r = 6, materialDensity = 13, Square = 452.389342117
+501: Ball: r = 6, materialDensity = 1, Square = 452.389342117
+502: Ball: r = 6, materialDensity = 6, Square = 452.389342117
+503: Ball: r = 6, materialDensity = 7, Square = 452.389342117
+504: Ball: r = 6, materialDensity = 19, Square = 452.389342117
+505: Ball: r = 6, materialDensity = 13, Square = 452.389342117
+506: Ball: r = 6, materialDensity = 7, Square = 452.389342117
+507: Ball: r = 6, materialDensity = 13, Square = 452.389342117
+508: Ball: r = 6, materialDensity = 2, Square = 452.389342117
+509: Ball: r = 6, materialDensity = 2, Square = 452.389342117
+510: Ball: r = 6, materialDensity = 2, Square = 452.389342117
+511: Ball: r = 6, materialDensity = 3, Square = 452.389342117
+512: Ball: r = 6, materialDensity = 16, Square = 452.389342117
+513: Ball: r = 6, materialDensity = 20, Square = 452.389342117
+514: Ball: r = 6, materialDensity = 19, Square = 452.389342117
+515: Ball: r = 6, materialDensity = 4, Square = 452.389342117
+516: Ball: r = 6, materialDensity = 5, Square = 452.389342117
+517: Ball: r = 6, materialDensity = 14, Square = 452.389342117
+518: Ball: r = 6, materialDensity = 15, Square = 452.389342117
+519: Ball: r = 6, materialDensity = 11, Square = 452.389342117
+520: Parallelepiped: x = 4, y = 9, z = 15, materialDensity = 8, Square = 462.0
+521: Parallelepiped: x = 3, y = 13, z = 12, materialDensity = 7, Square = 462.0
+522: Parallelepiped: x = 17, y = 12, z = 1, materialDensity = 10, Square = 466.0
+523: Parallelepiped: x = 18, y = 2, z = 10, materialDensity = 14, Square = 472.0
+524: Parallelepiped: x = 15, y = 1, z = 14, materialDensity = 4, Square = 478.0
+525: Parallelepiped: x = 11, y = 4, z = 13, materialDensity = 18, Square = 478.0
+526: Parallelepiped: x = 19, y = 6, z = 5, materialDensity = 1, Square = 478.0
+527: Parallelepiped: x = 11, y = 3, z = 15, materialDensity = 14, Square = 486.0
+528: Parallelepiped: x = 7, y = 7, z = 14, materialDensity = 20, Square = 490.0
+529: Parallelepiped: x = 5, y = 12, z = 11, materialDensity = 10, Square = 494.0
+530: Parallelepiped: x = 4, y = 20, z = 7, materialDensity = 20, Square = 496.0
+531: Parallelepiped: x = 4, y = 8, z = 18, materialDensity = 2, Square = 496.0
+532: Parallelepiped: x = 20, y = 4, z = 7, materialDensity = 17, Square = 496.0
+533: Tetrahedron: a = 17, materialDensity = 3, Square = 500.562683387
+534: Tetrahedron: a = 17, materialDensity = 19, Square = 500.562683387
+535: Tetrahedron: a = 17, materialDensity = 20, Square = 500.562683387
+536: Tetrahedron: a = 17, materialDensity = 14, Square = 500.562683387
+537: Tetrahedron: a = 17, materialDensity = 5, Square = 500.562683387
+538: Tetrahedron: a = 17, materialDensity = 14, Square = 500.562683387
+539: Tetrahedron: a = 17, materialDensity = 1, Square = 500.562683387
+540: Tetrahedron: a = 17, materialDensity = 19, Square = 500.562683387
+541: Tetrahedron: a = 17, materialDensity = 13, Square = 500.562683387
+542: Tetrahedron: a = 17, materialDensity = 16, Square = 500.562683387
+543: Tetrahedron: a = 17, materialDensity = 12, Square = 500.562683387
+544: Tetrahedron: a = 17, materialDensity = 3, Square = 500.562683387
+545: Tetrahedron: a = 17, materialDensity = 10, Square = 500.562683387
+546: Tetrahedron: a = 17, materialDensity = 17, Square = 500.562683387
+547: Tetrahedron: a = 17, materialDensity = 15, Square = 500.562683387
+548: Tetrahedron: a = 17, materialDensity = 11, Square = 500.562683387
+549: Tetrahedron: a = 17, materialDensity = 2, Square = 500.562683387
+550: Tetrahedron: a = 17, materialDensity = 2, Square = 500.562683387
+551: Tetrahedron: a = 17, materialDensity = 18, Square = 500.562683387
+552: Tetrahedron: a = 17, materialDensity = 14, Square = 500.562683387
+553: Parallelepiped: x = 5, y = 18, z = 7, materialDensity = 3, Square = 502.0
+554: Parallelepiped: x = 12, y = 9, z = 7, materialDensity = 15, Square = 510.0
+555: Parallelepiped: x = 8, y = 12, z = 8, materialDensity = 12, Square = 512.0
+556: Parallelepiped: x = 5, y = 12, z = 12, materialDensity = 14, Square = 528.0
+557: Parallelepiped: x = 14, y = 9, z = 6, materialDensity = 8, Square = 528.0
+558: Parallelepiped: x = 6, y = 9, z = 14, materialDensity = 10, Square = 528.0
+559: Parallelepiped: x = 16, y = 13, z = 2, materialDensity = 15, Square = 532.0
+560: Parallelepiped: x = 3, y = 20, z = 9, materialDensity = 20, Square = 534.0
+561: Parallelepiped: x = 20, y = 12, z = 1, materialDensity = 5, Square = 544.0
+562: Parallelepiped: x = 1, y = 20, z = 12, materialDensity = 10, Square = 544.0
+563: Parallelepiped: x = 13, y = 13, z = 4, materialDensity = 13, Square = 546.0
+564: Parallelepiped: x = 7, y = 20, z = 5, materialDensity = 18, Square = 550.0
+565: Parallelepiped: x = 11, y = 10, z = 8, materialDensity = 4, Square = 556.0
+566: Tetrahedron: a = 18, materialDensity = 10, Square = 561.184461652
+567: Tetrahedron: a = 18, materialDensity = 19, Square = 561.184461652
+568: Tetrahedron: a = 18, materialDensity = 18, Square = 561.184461652
+569: Tetrahedron: a = 18, materialDensity = 14, Square = 561.184461652
+570: Tetrahedron: a = 18, materialDensity = 14, Square = 561.184461652
+571: Tetrahedron: a = 18, materialDensity = 15, Square = 561.184461652
+572: Tetrahedron: a = 18, materialDensity = 13, Square = 561.184461652
+573: Tetrahedron: a = 18, materialDensity = 1, Square = 561.184461652
+574: Tetrahedron: a = 18, materialDensity = 4, Square = 561.184461652
+575: Tetrahedron: a = 18, materialDensity = 13, Square = 561.184461652
+576: Tetrahedron: a = 18, materialDensity = 12, Square = 561.184461652
+577: Tetrahedron: a = 18, materialDensity = 11, Square = 561.184461652
+578: Tetrahedron: a = 18, materialDensity = 7, Square = 561.184461652
+579: Tetrahedron: a = 18, materialDensity = 17, Square = 561.184461652
+580: Tetrahedron: a = 18, materialDensity = 9, Square = 561.184461652
+581: Tetrahedron: a = 18, materialDensity = 5, Square = 561.184461652
+582: Tetrahedron: a = 18, materialDensity = 2, Square = 561.184461652
+583: Tetrahedron: a = 18, materialDensity = 18, Square = 561.184461652
+584: Tetrahedron: a = 18, materialDensity = 10, Square = 561.184461652
+585: Tetrahedron: a = 18, materialDensity = 10, Square = 561.184461652
+586: Parallelepiped: x = 15, y = 8, z = 7, materialDensity = 15, Square = 562.0
+587: Parallelepiped: x = 1, y = 14, z = 18, materialDensity = 8, Square = 568.0
+588: Parallelepiped: x = 17, y = 7, z = 7, materialDensity = 16, Square = 574.0
+589: Parallelepiped: x = 6, y = 13, z = 11, materialDensity = 1, Square = 574.0
+590: Parallelepiped: x = 7, y = 7, z = 17, materialDensity = 11, Square = 574.0
+591: Parallelepiped: x = 16, y = 1, z = 16, materialDensity = 20, Square = 576.0
+592: Parallelepiped: x = 16, y = 16, z = 1, materialDensity = 2, Square = 576.0
+593: Parallelepiped: x = 12, y = 4, z = 15, materialDensity = 18, Square = 576.0
+594: Parallelepiped: x = 4, y = 13, z = 14, materialDensity = 19, Square = 580.0
+595: Parallelepiped: x = 10, y = 3, z = 20, materialDensity = 18, Square = 580.0
+596: Parallelepiped: x = 7, y = 13, z = 10, materialDensity = 13, Square = 582.0
+597: Parallelepiped: x = 7, y = 8, z = 16, materialDensity = 9, Square = 592.0
+598: Parallelepiped: x = 12, y = 9, z = 9, materialDensity = 19, Square = 594.0
+599: Parallelepiped: x = 3, y = 15, z = 14, materialDensity = 18, Square = 594.0
+600: Parallelepiped: x = 12, y = 14, z = 5, materialDensity = 16, Square = 596.0
+601: Parallelepiped: x = 11, y = 17, z = 4, materialDensity = 6, Square = 598.0
+602: Ball: r = 7, materialDensity = 16, Square = 615.752160104
+603: Ball: r = 7, materialDensity = 1, Square = 615.752160104
+604: Ball: r = 7, materialDensity = 6, Square = 615.752160104
+605: Ball: r = 7, materialDensity = 8, Square = 615.752160104
+606: Ball: r = 7, materialDensity = 1, Square = 615.752160104
+607: Ball: r = 7, materialDensity = 13, Square = 615.752160104
+608: Ball: r = 7, materialDensity = 10, Square = 615.752160104
+609: Ball: r = 7, materialDensity = 1, Square = 615.752160104
+610: Ball: r = 7, materialDensity = 16, Square = 615.752160104
+611: Ball: r = 7, materialDensity = 16, Square = 615.752160104
+612: Ball: r = 7, materialDensity = 1, Square = 615.752160104
+613: Parallelepiped: x = 14, y = 7, z = 10, materialDensity = 18, Square = 616.0
+614: Parallelepiped: x = 5, y = 11, z = 16, materialDensity = 12, Square = 622.0
+615: Parallelepiped: x = 2, y = 19, z = 13, materialDensity = 15, Square = 622.0
+616: Parallelepiped: x = 8, y = 7, z = 17, materialDensity = 2, Square = 622.0
+617: Parallelepiped: x = 5, y = 11, z = 16, materialDensity = 16, Square = 622.0
+618: Tetrahedron: a = 19, materialDensity = 2, Square = 625.270341532
+619: Tetrahedron: a = 19, materialDensity = 9, Square = 625.270341532
+620: Tetrahedron: a = 19, materialDensity = 14, Square = 625.270341532
+621: Tetrahedron: a = 19, materialDensity = 12, Square = 625.270341532
+622: Tetrahedron: a = 19, materialDensity = 8, Square = 625.270341532
+623: Tetrahedron: a = 19, materialDensity = 20, Square = 625.270341532
+624: Tetrahedron: a = 19, materialDensity = 8, Square = 625.270341532
+625: Tetrahedron: a = 19, materialDensity = 2, Square = 625.270341532
+626: Tetrahedron: a = 19, materialDensity = 5, Square = 625.270341532
+627: Tetrahedron: a = 19, materialDensity = 12, Square = 625.270341532
+628: Tetrahedron: a = 19, materialDensity = 11, Square = 625.270341532
+629: Parallelepiped: x = 20, y = 11, z = 3, materialDensity = 10, Square = 626.0
+630: Parallelepiped: x = 10, y = 13, z = 8, materialDensity = 14, Square = 628.0
+631: Parallelepiped: x = 3, y = 16, z = 14, materialDensity = 1, Square = 628.0
+632: Parallelepiped: x = 14, y = 16, z = 3, materialDensity = 17, Square = 628.0
+633: Parallelepiped: x = 13, y = 8, z = 10, materialDensity = 19, Square = 628.0
+634: Parallelepiped: x = 13, y = 5, z = 14, materialDensity = 11, Square = 634.0
+635: Parallelepiped: x = 2, y = 16, z = 16, materialDensity = 19, Square = 640.0
+636: Parallelepiped: x = 11, y = 6, z = 15, materialDensity = 20, Square = 642.0
+637: Parallelepiped: x = 17, y = 1, z = 17, materialDensity = 7, Square = 646.0
+638: Parallelepiped: x = 10, y = 7, z = 15, materialDensity = 6, Square = 650.0
+639: Parallelepiped: x = 17, y = 11, z = 5, materialDensity = 3, Square = 654.0
+640: Parallelepiped: x = 11, y = 4, z = 19, materialDensity = 17, Square = 658.0
+641: Parallelepiped: x = 4, y = 19, z = 11, materialDensity = 18, Square = 658.0
+642: Parallelepiped: x = 19, y = 4, z = 11, materialDensity = 14, Square = 658.0
+643: Parallelepiped: x = 6, y = 17, z = 10, materialDensity = 11, Square = 664.0
+644: Parallelepiped: x = 16, y = 15, z = 3, materialDensity = 11, Square = 666.0
+645: Parallelepiped: x = 20, y = 15, z = 1, materialDensity = 1, Square = 670.0
+646: Parallelepiped: x = 13, y = 10, z = 9, materialDensity = 15, Square = 674.0
+647: Parallelepiped: x = 11, y = 9, z = 12, materialDensity = 11, Square = 678.0
+648: Parallelepiped: x = 19, y = 1, z = 16, materialDensity = 13, Square = 678.0
+649: Parallelepiped: x = 8, y = 19, z = 7, materialDensity = 10, Square = 682.0
+650: Parallelepiped: x = 17, y = 1, z = 18, materialDensity = 6, Square = 682.0
+651: Parallelepiped: x = 16, y = 4, z = 14, materialDensity = 5, Square = 688.0
+652: Tetrahedron: a = 20, materialDensity = 3, Square = 692.820323028
+653: Tetrahedron: a = 20, materialDensity = 13, Square = 692.820323028
+654: Tetrahedron: a = 20, materialDensity = 8, Square = 692.820323028
+655: Tetrahedron: a = 20, materialDensity = 13, Square = 692.820323028
+656: Tetrahedron: a = 20, materialDensity = 12, Square = 692.820323028
+657: Tetrahedron: a = 20, materialDensity = 12, Square = 692.820323028
+658: Tetrahedron: a = 20, materialDensity = 7, Square = 692.820323028
+659: Tetrahedron: a = 20, materialDensity = 14, Square = 692.820323028
+660: Tetrahedron: a = 20, materialDensity = 18, Square = 692.820323028
+661: Tetrahedron: a = 20, materialDensity = 2, Square = 692.820323028
+662: Tetrahedron: a = 20, materialDensity = 17, Square = 692.820323028
+663: Tetrahedron: a = 20, materialDensity = 2, Square = 692.820323028
+664: Tetrahedron: a = 20, materialDensity = 2, Square = 692.820323028
+665: Tetrahedron: a = 20, materialDensity = 18, Square = 692.820323028
+666: Tetrahedron: a = 20, materialDensity = 2, Square = 692.820323028
+667: Tetrahedron: a = 20, materialDensity = 2, Square = 692.820323028
+668: Tetrahedron: a = 20, materialDensity = 9, Square = 692.820323028
+669: Tetrahedron: a = 20, materialDensity = 10, Square = 692.820323028
+670: Parallelepiped: x = 18, y = 14, z = 3, materialDensity = 16, Square = 696.0
+671: Parallelepiped: x = 8, y = 8, z = 18, materialDensity = 3, Square = 704.0
+672: Parallelepiped: x = 9, y = 6, z = 20, materialDensity = 11, Square = 708.0
+673: Parallelepiped: x = 9, y = 20, z = 6, materialDensity = 17, Square = 708.0
+674: Parallelepiped: x = 9, y = 14, z = 10, materialDensity = 1, Square = 712.0
+675: Parallelepiped: x = 5, y = 11, z = 19, materialDensity = 3, Square = 718.0
+676: Parallelepiped: x = 17, y = 1, z = 19, materialDensity = 14, Square = 718.0
+677: Parallelepiped: x = 3, y = 20, z = 13, materialDensity = 6, Square = 718.0
+678: Parallelepiped: x = 13, y = 20, z = 3, materialDensity = 18, Square = 718.0
+679: Parallelepiped: x = 15, y = 4, z = 16, materialDensity = 10, Square = 728.0
+680: Parallelepiped: x = 20, y = 17, z = 1, materialDensity = 15, Square = 754.0
+681: Parallelepiped: x = 20, y = 17, z = 1, materialDensity = 3, Square = 754.0
+682: Parallelepiped: x = 18, y = 8, z = 9, materialDensity = 14, Square = 756.0
+683: Parallelepiped: x = 13, y = 6, z = 16, materialDensity = 13, Square = 764.0
+684: Parallelepiped: x = 16, y = 13, z = 6, materialDensity = 5, Square = 764.0
+685: Parallelepiped: x = 10, y = 13, z = 11, materialDensity = 4, Square = 766.0
+686: Parallelepiped: x = 17, y = 9, z = 9, materialDensity = 19, Square = 774.0
+687: Parallelepiped: x = 9, y = 17, z = 9, materialDensity = 18, Square = 774.0
+688: Parallelepiped: x = 19, y = 11, z = 6, materialDensity = 2, Square = 778.0
+689: Parallelepiped: x = 18, y = 3, z = 16, materialDensity = 15, Square = 780.0
+690: Parallelepiped: x = 15, y = 13, z = 7, materialDensity = 7, Square = 782.0
+691: Parallelepiped: x = 9, y = 16, z = 10, materialDensity = 14, Square = 788.0
+692: Parallelepiped: x = 5, y = 16, z = 15, materialDensity = 18, Square = 790.0
+693: Parallelepiped: x = 18, y = 20, z = 1, materialDensity = 20, Square = 796.0
+694: Parallelepiped: x = 1, y = 19, z = 19, materialDensity = 16, Square = 798.0
+695: Ball: r = 8, materialDensity = 13, Square = 804.247719319
+696: Ball: r = 8, materialDensity = 2, Square = 804.247719319
+697: Ball: r = 8, materialDensity = 1, Square = 804.247719319
+698: Ball: r = 8, materialDensity = 5, Square = 804.247719319
+699: Ball: r = 8, materialDensity = 18, Square = 804.247719319
+700: Ball: r = 8, materialDensity = 20, Square = 804.247719319
+701: Ball: r = 8, materialDensity = 9, Square = 804.247719319
+702: Ball: r = 8, materialDensity = 10, Square = 804.247719319
+703: Ball: r = 8, materialDensity = 16, Square = 804.247719319
+704: Ball: r = 8, materialDensity = 5, Square = 804.247719319
+705: Ball: r = 8, materialDensity = 11, Square = 804.247719319
+706: Ball: r = 8, materialDensity = 8, Square = 804.247719319
+707: Ball: r = 8, materialDensity = 14, Square = 804.247719319
+708: Ball: r = 8, materialDensity = 7, Square = 804.247719319
+709: Ball: r = 8, materialDensity = 20, Square = 804.247719319
+710: Ball: r = 8, materialDensity = 3, Square = 804.247719319
+711: Ball: r = 8, materialDensity = 16, Square = 804.247719319
+712: Ball: r = 8, materialDensity = 12, Square = 804.247719319
+713: Ball: r = 8, materialDensity = 7, Square = 804.247719319
+714: Ball: r = 8, materialDensity = 1, Square = 804.247719319
+715: Ball: r = 8, materialDensity = 16, Square = 804.247719319
+716: Ball: r = 8, materialDensity = 8, Square = 804.247719319
+717: Ball: r = 8, materialDensity = 5, Square = 804.247719319
+718: Ball: r = 8, materialDensity = 15, Square = 804.247719319
+719: Ball: r = 8, materialDensity = 3, Square = 804.247719319
+720: Ball: r = 8, materialDensity = 12, Square = 804.247719319
+721: Parallelepiped: x = 3, y = 20, z = 15, materialDensity = 10, Square = 810.0
+722: Parallelepiped: x = 19, y = 3, z = 16, materialDensity = 20, Square = 818.0
+723: Parallelepiped: x = 13, y = 7, z = 16, materialDensity = 15, Square = 822.0
+724: Parallelepiped: x = 14, y = 18, z = 5, materialDensity = 6, Square = 824.0
+725: Parallelepiped: x = 12, y = 8, z = 16, materialDensity = 5, Square = 832.0
+726: Parallelepiped: x = 7, y = 19, z = 11, materialDensity = 17, Square = 838.0
+727: Parallelepiped: x = 17, y = 14, z = 6, materialDensity = 11, Square = 848.0
+728: Parallelepiped: x = 20, y = 13, z = 5, materialDensity = 15, Square = 850.0
+729: Parallelepiped: x = 11, y = 10, z = 15, materialDensity = 14, Square = 850.0
+730: Parallelepiped: x = 15, y = 11, z = 10, materialDensity = 2, Square = 850.0
+731: Parallelepiped: x = 15, y = 8, z = 14, materialDensity = 9, Square = 884.0
+732: Parallelepiped: x = 14, y = 15, z = 8, materialDensity = 18, Square = 884.0
+733: Parallelepiped: x = 16, y = 12, z = 9, materialDensity = 6, Square = 888.0
+734: Parallelepiped: x = 12, y = 15, z = 10, materialDensity = 10, Square = 900.0
+735: Parallelepiped: x = 14, y = 11, z = 12, materialDensity = 10, Square = 908.0
+736: Parallelepiped: x = 18, y = 10, z = 10, materialDensity = 15, Square = 920.0
+737: Parallelepiped: x = 10, y = 18, z = 10, materialDensity = 2, Square = 920.0
+738: Parallelepiped: x = 7, y = 20, z = 12, materialDensity = 1, Square = 928.0
+739: Parallelepiped: x = 11, y = 17, z = 10, materialDensity = 15, Square = 934.0
+740: Parallelepiped: x = 18, y = 15, z = 6, materialDensity = 9, Square = 936.0
+741: Parallelepiped: x = 16, y = 17, z = 6, materialDensity = 20, Square = 940.0
+742: Parallelepiped: x = 19, y = 19, z = 3, materialDensity = 17, Square = 950.0
+743: Parallelepiped: x = 10, y = 10, z = 19, materialDensity = 10, Square = 960.0
+744: Parallelepiped: x = 13, y = 18, z = 8, materialDensity = 19, Square = 964.0
+745: Parallelepiped: x = 6, y = 14, z = 20, materialDensity = 17, Square = 968.0
+746: Parallelepiped: x = 6, y = 14, z = 20, materialDensity = 1, Square = 968.0
+747: Parallelepiped: x = 15, y = 16, z = 8, materialDensity = 18, Square = 976.0
+748: Parallelepiped: x = 9, y = 14, z = 16, materialDensity = 14, Square = 988.0
+749: Parallelepiped: x = 8, y = 20, z = 12, materialDensity = 18, Square = 992.0
+750: Parallelepiped: x = 14, y = 7, z = 19, materialDensity = 20, Square = 994.0
+751: Parallelepiped: x = 9, y = 20, z = 11, materialDensity = 19, Square = 998.0
+752: Parallelepiped: x = 16, y = 20, z = 5, materialDensity = 2, Square = 1000.0
+753: Parallelepiped: x = 16, y = 17, z = 7, materialDensity = 4, Square = 1006.0
+754: Parallelepiped: x = 14, y = 13, z = 12, materialDensity = 16, Square = 1012.0
+755: Ball: r = 9, materialDensity = 7, Square = 1017.87601976
+756: Ball: r = 9, materialDensity = 7, Square = 1017.87601976
+757: Ball: r = 9, materialDensity = 14, Square = 1017.87601976
+758: Ball: r = 9, materialDensity = 9, Square = 1017.87601976
+759: Ball: r = 9, materialDensity = 19, Square = 1017.87601976
+760: Ball: r = 9, materialDensity = 7, Square = 1017.87601976
+761: Ball: r = 9, materialDensity = 14, Square = 1017.87601976
+762: Ball: r = 9, materialDensity = 7, Square = 1017.87601976
+763: Ball: r = 9, materialDensity = 13, Square = 1017.87601976
+764: Ball: r = 9, materialDensity = 19, Square = 1017.87601976
+765: Ball: r = 9, materialDensity = 1, Square = 1017.87601976
+766: Ball: r = 9, materialDensity = 5, Square = 1017.87601976
+767: Ball: r = 9, materialDensity = 14, Square = 1017.87601976
+768: Ball: r = 9, materialDensity = 2, Square = 1017.87601976
+769: Ball: r = 9, materialDensity = 6, Square = 1017.87601976
+770: Ball: r = 9, materialDensity = 5, Square = 1017.87601976
+771: Ball: r = 9, materialDensity = 17, Square = 1017.87601976
+772: Ball: r = 9, materialDensity = 8, Square = 1017.87601976
+773: Parallelepiped: x = 20, y = 18, z = 4, materialDensity = 12, Square = 1024.0
+774: Parallelepiped: x = 4, y = 19, z = 19, materialDensity = 5, Square = 1026.0
+775: Parallelepiped: x = 14, y = 7, z = 20, materialDensity = 20, Square = 1036.0
+776: Parallelepiped: x = 5, y = 20, z = 17, materialDensity = 20, Square = 1050.0
+777: Parallelepiped: x = 9, y = 12, z = 20, materialDensity = 15, Square = 1056.0
+778: Parallelepiped: x = 14, y = 11, z = 15, materialDensity = 7, Square = 1058.0
+779: Parallelepiped: x = 11, y = 10, z = 20, materialDensity = 15, Square = 1060.0
+780: Parallelepiped: x = 4, y = 20, z = 19, materialDensity = 15, Square = 1072.0
+781: Parallelepiped: x = 19, y = 11, z = 11, materialDensity = 4, Square = 1078.0
+782: Parallelepiped: x = 9, y = 17, z = 15, materialDensity = 2, Square = 1086.0
+783: Parallelepiped: x = 10, y = 18, z = 13, materialDensity = 20, Square = 1088.0
+784: Parallelepiped: x = 16, y = 16, z = 9, materialDensity = 16, Square = 1088.0
+785: Parallelepiped: x = 18, y = 10, z = 13, materialDensity = 16, Square = 1088.0
+786: Parallelepiped: x = 19, y = 19, z = 5, materialDensity = 3, Square = 1102.0
+787: Parallelepiped: x = 19, y = 18, z = 6, materialDensity = 6, Square = 1128.0
+788: Parallelepiped: x = 17, y = 9, z = 16, materialDensity = 20, Square = 1138.0
+789: Parallelepiped: x = 11, y = 13, z = 18, materialDensity = 4, Square = 1150.0
+790: Parallelepiped: x = 8, y = 20, z = 15, materialDensity = 10, Square = 1160.0
+791: Parallelepiped: x = 13, y = 12, z = 17, materialDensity = 18, Square = 1162.0
+792: Parallelepiped: x = 20, y = 6, z = 18, materialDensity = 7, Square = 1176.0
+793: Parallelepiped: x = 20, y = 13, z = 10, materialDensity = 5, Square = 1180.0
+794: Parallelepiped: x = 20, y = 13, z = 10, materialDensity = 14, Square = 1180.0
+795: Parallelepiped: x = 15, y = 15, z = 13, materialDensity = 18, Square = 1230.0
+796: Parallelepiped: x = 10, y = 20, z = 14, materialDensity = 14, Square = 1240.0
+797: Parallelepiped: x = 12, y = 12, z = 20, materialDensity = 4, Square = 1248.0
+798: Ball: r = 10, materialDensity = 16, Square = 1256.63706144
+799: Ball: r = 10, materialDensity = 12, Square = 1256.63706144
+800: Ball: r = 10, materialDensity = 6, Square = 1256.63706144
+801: Ball: r = 10, materialDensity = 7, Square = 1256.63706144
+802: Ball: r = 10, materialDensity = 3, Square = 1256.63706144
+803: Ball: r = 10, materialDensity = 14, Square = 1256.63706144
+804: Ball: r = 10, materialDensity = 8, Square = 1256.63706144
+805: Ball: r = 10, materialDensity = 20, Square = 1256.63706144
+806: Ball: r = 10, materialDensity = 6, Square = 1256.63706144
+807: Ball: r = 10, materialDensity = 14, Square = 1256.63706144
+808: Ball: r = 10, materialDensity = 15, Square = 1256.63706144
+809: Ball: r = 10, materialDensity = 19, Square = 1256.63706144
+810: Ball: r = 10, materialDensity = 19, Square = 1256.63706144
+811: Parallelepiped: x = 11, y = 19, z = 14, materialDensity = 18, Square = 1258.0
+812: Parallelepiped: x = 13, y = 17, z = 14, materialDensity = 5, Square = 1282.0
+813: Parallelepiped: x = 15, y = 10, z = 20, materialDensity = 6, Square = 1300.0
+814: Parallelepiped: x = 15, y = 10, z = 20, materialDensity = 17, Square = 1300.0
+815: Parallelepiped: x = 20, y = 12, z = 13, materialDensity = 20, Square = 1312.0
+816: Parallelepiped: x = 18, y = 13, z = 14, materialDensity = 16, Square = 1336.0
+817: Parallelepiped: x = 18, y = 14, z = 13, materialDensity = 19, Square = 1336.0
+818: Parallelepiped: x = 15, y = 17, z = 13, materialDensity = 18, Square = 1342.0
+819: Parallelepiped: x = 20, y = 15, z = 11, materialDensity = 20, Square = 1370.0
+820: Parallelepiped: x = 15, y = 20, z = 11, materialDensity = 9, Square = 1370.0
+821: Parallelepiped: x = 13, y = 20, z = 13, materialDensity = 20, Square = 1378.0
+822: Parallelepiped: x = 13, y = 19, z = 14, materialDensity = 16, Square = 1390.0
+823: Parallelepiped: x = 15, y = 18, z = 13, materialDensity = 12, Square = 1398.0
+824: Parallelepiped: x = 17, y = 15, z = 14, materialDensity = 16, Square = 1406.0
+825: Parallelepiped: x = 19, y = 14, z = 14, materialDensity = 20, Square = 1456.0
+826: Parallelepiped: x = 14, y = 14, z = 19, materialDensity = 7, Square = 1456.0
+827: Parallelepiped: x = 13, y = 18, z = 16, materialDensity = 3, Square = 1460.0
+828: Ball: r = 11, materialDensity = 16, Square = 1520.53084434
+829: Ball: r = 11, materialDensity = 19, Square = 1520.53084434
+830: Ball: r = 11, materialDensity = 8, Square = 1520.53084434
+831: Ball: r = 11, materialDensity = 14, Square = 1520.53084434
+832: Ball: r = 11, materialDensity = 12, Square = 1520.53084434
+833: Ball: r = 11, materialDensity = 6, Square = 1520.53084434
+834: Ball: r = 11, materialDensity = 8, Square = 1520.53084434
+835: Ball: r = 11, materialDensity = 13, Square = 1520.53084434
+836: Ball: r = 11, materialDensity = 5, Square = 1520.53084434
+837: Ball: r = 11, materialDensity = 14, Square = 1520.53084434
+838: Ball: r = 11, materialDensity = 19, Square = 1520.53084434
+839: Ball: r = 11, materialDensity = 11, Square = 1520.53084434
+840: Ball: r = 11, materialDensity = 6, Square = 1520.53084434
+841: Ball: r = 11, materialDensity = 2, Square = 1520.53084434
+842: Ball: r = 11, materialDensity = 20, Square = 1520.53084434
+843: Ball: r = 11, materialDensity = 13, Square = 1520.53084434
+844: Ball: r = 11, materialDensity = 18, Square = 1520.53084434
+845: Ball: r = 11, materialDensity = 9, Square = 1520.53084434
+846: Parallelepiped: x = 18, y = 13, z = 17, materialDensity = 8, Square = 1522.0
+847: Parallelepiped: x = 18, y = 15, z = 15, materialDensity = 6, Square = 1530.0
+848: Parallelepiped: x = 12, y = 18, z = 19, materialDensity = 8, Square = 1572.0
+849: Parallelepiped: x = 20, y = 12, z = 18, materialDensity = 5, Square = 1632.0
+850: Parallelepiped: x = 14, y = 20, z = 17, materialDensity = 14, Square = 1716.0
+851: Parallelepiped: x = 18, y = 15, z = 18, materialDensity = 15, Square = 1728.0
+852: Parallelepiped: x = 17, y = 16, z = 18, materialDensity = 9, Square = 1732.0
+853: Parallelepiped: x = 17, y = 17, z = 17, materialDensity = 2, Square = 1734.0
+854: Ball: r = 12, materialDensity = 13, Square = 1809.55736847
+855: Ball: r = 12, materialDensity = 2, Square = 1809.55736847
+856: Ball: r = 12, materialDensity = 2, Square = 1809.55736847
+857: Ball: r = 12, materialDensity = 20, Square = 1809.55736847
+858: Ball: r = 12, materialDensity = 10, Square = 1809.55736847
+859: Ball: r = 12, materialDensity = 18, Square = 1809.55736847
+860: Ball: r = 12, materialDensity = 15, Square = 1809.55736847
+861: Ball: r = 12, materialDensity = 7, Square = 1809.55736847
+862: Ball: r = 12, materialDensity = 5, Square = 1809.55736847
+863: Ball: r = 12, materialDensity = 2, Square = 1809.55736847
+864: Ball: r = 12, materialDensity = 17, Square = 1809.55736847
+865: Ball: r = 12, materialDensity = 4, Square = 1809.55736847
+866: Ball: r = 12, materialDensity = 13, Square = 1809.55736847
+867: Ball: r = 12, materialDensity = 13, Square = 1809.55736847
+868: Ball: r = 12, materialDensity = 16, Square = 1809.55736847
+869: Ball: r = 12, materialDensity = 6, Square = 1809.55736847
+870: Parallelepiped: x = 15, y = 18, z = 20, materialDensity = 17, Square = 1860.0
+871: Ball: r = 13, materialDensity = 2, Square = 2123.71663383
+872: Ball: r = 13, materialDensity = 11, Square = 2123.71663383
+873: Ball: r = 13, materialDensity = 11, Square = 2123.71663383
+874: Ball: r = 13, materialDensity = 12, Square = 2123.71663383
+875: Ball: r = 13, materialDensity = 13, Square = 2123.71663383
+876: Ball: r = 13, materialDensity = 2, Square = 2123.71663383
+877: Ball: r = 13, materialDensity = 16, Square = 2123.71663383
+878: Ball: r = 13, materialDensity = 3, Square = 2123.71663383
+879: Ball: r = 13, materialDensity = 8, Square = 2123.71663383
+880: Ball: r = 13, materialDensity = 17, Square = 2123.71663383
+881: Ball: r = 13, materialDensity = 2, Square = 2123.71663383
+882: Ball: r = 13, materialDensity = 16, Square = 2123.71663383
+883: Ball: r = 13, materialDensity = 16, Square = 2123.71663383
+884: Ball: r = 13, materialDensity = 4, Square = 2123.71663383
+885: Ball: r = 13, materialDensity = 18, Square = 2123.71663383
+886: Ball: r = 13, materialDensity = 3, Square = 2123.71663383
+887: Ball: r = 13, materialDensity = 17, Square = 2123.71663383
+888: Ball: r = 13, materialDensity = 10, Square = 2123.71663383
+889: Ball: r = 13, materialDensity = 7, Square = 2123.71663383
+890: Ball: r = 13, materialDensity = 2, Square = 2123.71663383
+891: Ball: r = 13, materialDensity = 10, Square = 2123.71663383
+892: Parallelepiped: x = 20, y = 19, z = 18, materialDensity = 10, Square = 2164.0
+893: Parallelepiped: x = 19, y = 19, z = 20, materialDensity = 1, Square = 2242.0
+894: Ball: r = 14, materialDensity = 19, Square = 2463.00864041
+895: Ball: r = 14, materialDensity = 6, Square = 2463.00864041
+896: Ball: r = 14, materialDensity = 17, Square = 2463.00864041
+897: Ball: r = 14, materialDensity = 4, Square = 2463.00864041
+898: Ball: r = 14, materialDensity = 12, Square = 2463.00864041
+899: Ball: r = 14, materialDensity = 16, Square = 2463.00864041
+900: Ball: r = 14, materialDensity = 10, Square = 2463.00864041
+901: Ball: r = 14, materialDensity = 17, Square = 2463.00864041
+902: Ball: r = 14, materialDensity = 17, Square = 2463.00864041
+903: Ball: r = 14, materialDensity = 19, Square = 2463.00864041
+904: Ball: r = 14, materialDensity = 14, Square = 2463.00864041
+905: Ball: r = 14, materialDensity = 15, Square = 2463.00864041
+906: Ball: r = 14, materialDensity = 11, Square = 2463.00864041
+907: Ball: r = 14, materialDensity = 11, Square = 2463.00864041
+908: Ball: r = 14, materialDensity = 20, Square = 2463.00864041
+909: Ball: r = 15, materialDensity = 19, Square = 2827.43338823
+910: Ball: r = 15, materialDensity = 13, Square = 2827.43338823
+911: Ball: r = 15, materialDensity = 13, Square = 2827.43338823
+912: Ball: r = 15, materialDensity = 10, Square = 2827.43338823
+913: Ball: r = 15, materialDensity = 1, Square = 2827.43338823
+914: Ball: r = 15, materialDensity = 8, Square = 2827.43338823
+915: Ball: r = 15, materialDensity = 13, Square = 2827.43338823
+916: Ball: r = 15, materialDensity = 10, Square = 2827.43338823
+917: Ball: r = 15, materialDensity = 15, Square = 2827.43338823
+918: Ball: r = 15, materialDensity = 10, Square = 2827.43338823
+919: Ball: r = 15, materialDensity = 13, Square = 2827.43338823
+920: Ball: r = 15, materialDensity = 20, Square = 2827.43338823
+921: Ball: r = 15, materialDensity = 11, Square = 2827.43338823
+922: Ball: r = 15, materialDensity = 13, Square = 2827.43338823
+923: Ball: r = 15, materialDensity = 17, Square = 2827.43338823
+924: Ball: r = 16, materialDensity = 5, Square = 3216.99087728
+925: Ball: r = 16, materialDensity = 19, Square = 3216.99087728
+926: Ball: r = 16, materialDensity = 2, Square = 3216.99087728
+927: Ball: r = 16, materialDensity = 1, Square = 3216.99087728
+928: Ball: r = 16, materialDensity = 12, Square = 3216.99087728
+929: Ball: r = 16, materialDensity = 5, Square = 3216.99087728
+930: Ball: r = 16, materialDensity = 8, Square = 3216.99087728
+931: Ball: r = 16, materialDensity = 16, Square = 3216.99087728
+932: Ball: r = 16, materialDensity = 5, Square = 3216.99087728
+933: Ball: r = 16, materialDensity = 6, Square = 3216.99087728
+934: Ball: r = 16, materialDensity = 6, Square = 3216.99087728
+935: Ball: r = 17, materialDensity = 4, Square = 3631.68110755
+936: Ball: r = 17, materialDensity = 12, Square = 3631.68110755
+937: Ball: r = 17, materialDensity = 20, Square = 3631.68110755
+938: Ball: r = 17, materialDensity = 6, Square = 3631.68110755
+939: Ball: r = 17, materialDensity = 14, Square = 3631.68110755
+940: Ball: r = 17, materialDensity = 1, Square = 3631.68110755
+941: Ball: r = 17, materialDensity = 19, Square = 3631.68110755
+942: Ball: r = 17, materialDensity = 7, Square = 3631.68110755
+943: Ball: r = 17, materialDensity = 12, Square = 3631.68110755
+944: Ball: r = 17, materialDensity = 17, Square = 3631.68110755
+945: Ball: r = 17, materialDensity = 12, Square = 3631.68110755
+946: Ball: r = 17, materialDensity = 8, Square = 3631.68110755
+947: Ball: r = 17, materialDensity = 19, Square = 3631.68110755
+948: Ball: r = 17, materialDensity = 12, Square = 3631.68110755
+949: Ball: r = 17, materialDensity = 5, Square = 3631.68110755
+950: Ball: r = 17, materialDensity = 11, Square = 3631.68110755
+951: Ball: r = 18, materialDensity = 18, Square = 4071.50407905
+952: Ball: r = 18, materialDensity = 17, Square = 4071.50407905
+953: Ball: r = 18, materialDensity = 7, Square = 4071.50407905
+954: Ball: r = 18, materialDensity = 15, Square = 4071.50407905
+955: Ball: r = 18, materialDensity = 11, Square = 4071.50407905
+956: Ball: r = 18, materialDensity = 9, Square = 4071.50407905
+957: Ball: r = 18, materialDensity = 19, Square = 4071.50407905
+958: Ball: r = 18, materialDensity = 1, Square = 4071.50407905
+959: Ball: r = 18, materialDensity = 6, Square = 4071.50407905
+960: Ball: r = 18, materialDensity = 7, Square = 4071.50407905
+961: Ball: r = 18, materialDensity = 4, Square = 4071.50407905
+962: Ball: r = 18, materialDensity = 2, Square = 4071.50407905
+963: Ball: r = 18, materialDensity = 5, Square = 4071.50407905
+964: Ball: r = 19, materialDensity = 9, Square = 4536.45979178
+965: Ball: r = 19, materialDensity = 5, Square = 4536.45979178
+966: Ball: r = 19, materialDensity = 9, Square = 4536.45979178
+967: Ball: r = 19, materialDensity = 12, Square = 4536.45979178
+968: Ball: r = 19, materialDensity = 6, Square = 4536.45979178
+969: Ball: r = 19, materialDensity = 8, Square = 4536.45979178
+970: Ball: r = 19, materialDensity = 3, Square = 4536.45979178
+971: Ball: r = 19, materialDensity = 1, Square = 4536.45979178
+972: Ball: r = 19, materialDensity = 20, Square = 4536.45979178
+973: Ball: r = 19, materialDensity = 13, Square = 4536.45979178
+974: Ball: r = 19, materialDensity = 11, Square = 4536.45979178
+975: Ball: r = 19, materialDensity = 4, Square = 4536.45979178
+976: Ball: r = 19, materialDensity = 17, Square = 4536.45979178
+977: Ball: r = 19, materialDensity = 7, Square = 4536.45979178
+978: Ball: r = 19, materialDensity = 8, Square = 4536.45979178
+979: Ball: r = 19, materialDensity = 7, Square = 4536.45979178
+980: Ball: r = 19, materialDensity = 5, Square = 4536.45979178
+981: Ball: r = 19, materialDensity = 5, Square = 4536.45979178
+982: Ball: r = 19, materialDensity = 12, Square = 4536.45979178
+983: Ball: r = 19, materialDensity = 16, Square = 4536.45979178
+984: Ball: r = 20, materialDensity = 17, Square = 5026.54824574
+985: Ball: r = 20, materialDensity = 19, Square = 5026.54824574
+986: Ball: r = 20, materialDensity = 15, Square = 5026.54824574
+987: Ball: r = 20, materialDensity = 17, Square = 5026.54824574
+988: Ball: r = 20, materialDensity = 4, Square = 5026.54824574
+989: Ball: r = 20, materialDensity = 20, Square = 5026.54824574
+990: Ball: r = 20, materialDensity = 14, Square = 5026.54824574
+991: Ball: r = 20, materialDensity = 4, Square = 5026.54824574
+992: Ball: r = 20, materialDensity = 13, Square = 5026.54824574
+993: Ball: r = 20, materialDensity = 7, Square = 5026.54824574
+994: Ball: r = 20, materialDensity = 20, Square = 5026.54824574
+995: Ball: r = 20, materialDensity = 13, Square = 5026.54824574
+996: Ball: r = 20, materialDensity = 5, Square = 5026.54824574
+997: Ball: r = 20, materialDensity = 15, Square = 5026.54824574
+998: Ball: r = 20, materialDensity = 12, Square = 5026.54824574
+999: Ball: r = 20, materialDensity = 14, Square = 5026.54824574
+1000: Ball: r = 20, materialDensity = 14, Square = 5026.54824574

@@ -1,0 +1,9 @@
+Container contains 8 elements:
+1: Parallelepiped: x = 1, y = 1, z = 1, materialDensity = 12, Square = 6.0
+2: Parallelepiped: x = 2, y = 2, z = 1, materialDensity = 4, Square = 16.0
+3: Parallelepiped: x = 3, y = 4, z = 5, materialDensity = 11, Square = 94.0
+4: Ball: r = 3, materialDensity = 5, Square = 113.097335529
+5: Parallelepiped: x = 10, y = 10, z = 10, materialDensity = 7, Square = 600.0
+6: Tetrahedron: a = 30, materialDensity = 3, Square = 1558.84572681
+7: Ball: r = 13, materialDensity = 5, Square = 2123.71663383
+8: Tetrahedron: a = 330, materialDensity = 3, Square = 188620.332944

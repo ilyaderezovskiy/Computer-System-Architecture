@@ -12,7 +12,7 @@ def ErrorMessage():
     )
 
 if __name__ == '__main__':
-    start_time = time.clock()
+    #start_time = time.clock()
     if len(sys.argv) != 4:
         ErrorMessage()
         exit()
@@ -48,4 +48,4 @@ if __name__ == '__main__':
         container.Write(file)
 
     print("==> End")
-    print("Time elapsed {} ms".format((time.clock() - start_time) * 1000))
+    #print("Time elapsed {} ms".format((time.clock() - start_time) * 1000))

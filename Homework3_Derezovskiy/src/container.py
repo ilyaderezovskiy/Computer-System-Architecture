@@ -10,7 +10,7 @@ class Container:
                 return low + 1
             else:
                 return low
-        mid = (low + high) / 2
+        mid = int((low + high) / 2)
         if item.Square() == self.store[mid].Square():
             return mid + 1
         if item.Square() > self.store[mid].Square():

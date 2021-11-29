@@ -1,0 +1,1003 @@
+Filled container:
+0: It is Parallelepiped: a = 16, b = 17, c = 3, materialDensity = 3. Square = 736
+1: It is Tetrahedron: a = 12, materialDensity = 15. Square = 249
+2: It is Tetrahedron: a = 16, materialDensity = 9. Square = 443
+3: It is Tetrahedron: a = 17, materialDensity = 14. Square = 500
+4: It is Ball: r = 15, materialDensity = 14. Square = 2827
+5: It is Parallelepiped: a = 18, b = 17, c = 19, materialDensity = 3. Square = 1908
+6: It is Tetrahedron: a = 12, materialDensity = 11. Square = 249
+7: It is Parallelepiped: a = 11, b = 17, c = 6, materialDensity = 3. Square = 704
+8: It is Parallelepiped: a = 5, b = 13, c = 10, materialDensity = 3. Square = 490
+9: It is Tetrahedron: a = 16, materialDensity = 10. Square = 443
+10: It is Ball: r = 12, materialDensity = 6. Square = 1809
+11: It is Ball: r = 4, materialDensity = 14. Square = 201
+12: It is Ball: r = 12, materialDensity = 8. Square = 1809
+13: It is Tetrahedron: a = 15, materialDensity = 5. Square = 389
+14: It is Parallelepiped: a = 13, b = 3, c = 4, materialDensity = 4. Square = 182
+15: It is Ball: r = 11, materialDensity = 6. Square = 1520
+16: It is Ball: r = 8, materialDensity = 16. Square = 804
+17: It is Tetrahedron: a = 12, materialDensity = 8. Square = 249
+18: It is Ball: r = 10, materialDensity = 7. Square = 1256
+19: It is Parallelepiped: a = 20, b = 20, c = 15, materialDensity = 4. Square = 2000
+20: It is Ball: r = 10, materialDensity = 10. Square = 1256
+21: It is Ball: r = 14, materialDensity = 17. Square = 2463
+22: It is Tetrahedron: a = 8, materialDensity = 13. Square = 110
+23: It is Parallelepiped: a = 12, b = 16, c = 8, materialDensity = 4. Square = 816
+24: It is Ball: r = 11, materialDensity = 17. Square = 1520
+25: It is Parallelepiped: a = 18, b = 12, c = 17, materialDensity = 4. Square = 1440
+26: It is Tetrahedron: a = 12, materialDensity = 11. Square = 249
+27: It is Tetrahedron: a = 15, materialDensity = 2. Square = 389
+28: It is Parallelepiped: a = 9, b = 18, c = 20, materialDensity = 4. Square = 1404
+29: It is Ball: r = 18, materialDensity = 12. Square = 4071
+30: It is Ball: r = 3, materialDensity = 11. Square = 113
+31: It is Parallelepiped: a = 7, b = 2, c = 15, materialDensity = 4. Square = 294
+32: It is Parallelepiped: a = 7, b = 5, c = 8, materialDensity = 4. Square = 252
+33: It is Tetrahedron: a = 19, materialDensity = 16. Square = 625
+34: It is Parallelepiped: a = 10, b = 8, c = 10, materialDensity = 4. Square = 520
+35: It is Parallelepiped: a = 11, b = 14, c = 15, materialDensity = 4. Square = 1056
+36: It is Parallelepiped: a = 13, b = 7, c = 11, materialDensity = 4. Square = 598
+37: It is Ball: r = 5, materialDensity = 18. Square = 314
+38: It is Parallelepiped: a = 4, b = 11, c = 19, materialDensity = 4. Square = 656
+39: It is Parallelepiped: a = 5, b = 14, c = 10, materialDensity = 4. Square = 520
+40: It is Parallelepiped: a = 20, b = 20, c = 6, materialDensity = 4. Square = 1280
+41: It is Ball: r = 15, materialDensity = 7. Square = 2827
+42: It is Parallelepiped: a = 5, b = 12, c = 6, materialDensity = 4. Square = 320
+43: It is Ball: r = 10, materialDensity = 4. Square = 1256
+44: It is Ball: r = 17, materialDensity = 17. Square = 3631
+45: It is Parallelepiped: a = 14, b = 9, c = 18, materialDensity = 4. Square = 1064
+46: It is Parallelepiped: a = 7, b = 18, c = 3, materialDensity = 4. Square = 392
+47: It is Tetrahedron: a = 6, materialDensity = 18. Square = 62
+48: It is Tetrahedron: a = 5, materialDensity = 3. Square = 43
+49: It is Parallelepiped: a = 15, b = 9, c = 5, materialDensity = 4. Square = 510
+50: It is Parallelepiped: a = 16, b = 12, c = 10, materialDensity = 4. Square = 928
+51: It is Parallelepiped: a = 5, b = 1, c = 10, materialDensity = 4. Square = 130
+52: It is Parallelepiped: a = 4, b = 13, c = 4, materialDensity = 4. Square = 240
+53: It is Parallelepiped: a = 10, b = 16, c = 13, materialDensity = 4. Square = 980
+54: It is Ball: r = 11, materialDensity = 18. Square = 1520
+55: It is Parallelepiped: a = 7, b = 13, c = 18, materialDensity = 4. Square = 896
+56: It is Ball: r = 2, materialDensity = 8. Square = 50
+57: It is Tetrahedron: a = 17, materialDensity = 11. Square = 500
+58: It is Ball: r = 19, materialDensity = 4. Square = 4536
+59: It is Ball: r = 19, materialDensity = 14. Square = 4536
+60: It is Ball: r = 5, materialDensity = 17. Square = 314
+61: It is Ball: r = 8, materialDensity = 7. Square = 804
+62: It is Tetrahedron: a = 17, materialDensity = 3. Square = 500
+63: It is Tetrahedron: a = 9, materialDensity = 16. Square = 140
+64: It is Tetrahedron: a = 7, materialDensity = 15. Square = 84
+65: It is Ball: r = 11, materialDensity = 4. Square = 1520
+66: It is Ball: r = 11, materialDensity = 5. Square = 1520
+67: It is Ball: r = 9, materialDensity = 13. Square = 1017
+68: It is Ball: r = 16, materialDensity = 4. Square = 3216
+69: It is Parallelepiped: a = 19, b = 14, c = 4, materialDensity = 4. Square = 760
+70: It is Tetrahedron: a = 12, materialDensity = 16. Square = 249
+71: It is Parallelepiped: a = 18, b = 7, c = 15, materialDensity = 4. Square = 972
+72: It is Tetrahedron: a = 15, materialDensity = 8. Square = 389
+73: It is Tetrahedron: a = 13, materialDensity = 14. Square = 292
+74: It is Ball: r = 3, materialDensity = 18. Square = 113
+75: It is Ball: r = 6, materialDensity = 14. Square = 452
+76: It is Ball: r = 14, materialDensity = 7. Square = 2463
+77: It is Parallelepiped: a = 1, b = 10, c = 9, materialDensity = 4. Square = 218
+78: It is Tetrahedron: a = 4, materialDensity = 18. Square = 27
+79: It is Tetrahedron: a = 15, materialDensity = 5. Square = 389
+80: It is Parallelepiped: a = 5, b = 11, c = 17, materialDensity = 4. Square = 650
+81: It is Tetrahedron: a = 11, materialDensity = 15. Square = 209
+82: It is Parallelepiped: a = 4, b = 1, c = 2, materialDensity = 4. Square = 24
+83: It is Parallelepiped: a = 10, b = 3, c = 11, materialDensity = 4. Square = 340
+84: It is Parallelepiped: a = 9, b = 9, c = 8, materialDensity = 4. Square = 450
+85: It is Ball: r = 11, materialDensity = 13. Square = 1520
+86: It is Tetrahedron: a = 20, materialDensity = 5. Square = 692
+87: It is Ball: r = 4, materialDensity = 15. Square = 201
+88: It is Ball: r = 6, materialDensity = 11. Square = 452
+89: It is Tetrahedron: a = 9, materialDensity = 14. Square = 140
+90: It is Parallelepiped: a = 20, b = 17, c = 9, materialDensity = 4. Square = 1320
+91: It is Ball: r = 6, materialDensity = 3. Square = 452
+92: It is Tetrahedron: a = 9, materialDensity = 4. Square = 140
+93: It is Ball: r = 9, materialDensity = 4. Square = 1017
+94: It is Parallelepiped: a = 19, b = 13, c = 2, materialDensity = 4. Square = 608
+95: It is Ball: r = 1, materialDensity = 7. Square = 12
+96: It is Parallelepiped: a = 16, b = 14, c = 10, materialDensity = 4. Square = 1024
+97: It is Parallelepiped: a = 12, b = 1, c = 9, materialDensity = 4. Square = 240
+98: It is Ball: r = 17, materialDensity = 9. Square = 3631
+99: It is Parallelepiped: a = 11, b = 6, c = 19, materialDensity = 4. Square = 770
+100: It is Ball: r = 2, materialDensity = 10. Square = 50
+101: It is Ball: r = 18, materialDensity = 13. Square = 4071
+102: It is Tetrahedron: a = 2, materialDensity = 14. Square = 6
+103: It is Tetrahedron: a = 18, materialDensity = 6. Square = 561
+104: It is Ball: r = 12, materialDensity = 13. Square = 1809
+105: It is Parallelepiped: a = 1, b = 5, c = 6, materialDensity = 5. Square = 82
+106: It is Tetrahedron: a = 6, materialDensity = 4. Square = 62
+107: It is Tetrahedron: a = 15, materialDensity = 4. Square = 389
+108: It is Parallelepiped: a = 5, b = 1, c = 11, materialDensity = 5. Square = 140
+109: It is Tetrahedron: a = 5, materialDensity = 12. Square = 43
+110: It is Ball: r = 2, materialDensity = 5. Square = 50
+111: It is Tetrahedron: a = 15, materialDensity = 10. Square = 389
+112: It is Tetrahedron: a = 12, materialDensity = 8. Square = 249
+113: It is Tetrahedron: a = 3, materialDensity = 20. Square = 15
+114: It is Parallelepiped: a = 4, b = 5, c = 6, materialDensity = 5. Square = 144
+115: It is Tetrahedron: a = 3, materialDensity = 2. Square = 15
+116: It is Parallelepiped: a = 9, b = 5, c = 3, materialDensity = 5. Square = 162
+117: It is Parallelepiped: a = 13, b = 7, c = 4, materialDensity = 5. Square = 338
+118: It is Ball: r = 8, materialDensity = 10. Square = 804
+119: It is Ball: r = 4, materialDensity = 4. Square = 201
+120: It is Ball: r = 10, materialDensity = 15. Square = 1256
+121: It is Parallelepiped: a = 20, b = 10, c = 7, materialDensity = 5. Square = 800
+122: It is Parallelepiped: a = 3, b = 17, c = 11, materialDensity = 5. Square = 540
+123: It is Ball: r = 5, materialDensity = 13. Square = 314
+124: It is Ball: r = 1, materialDensity = 15. Square = 12
+125: It is Tetrahedron: a = 6, materialDensity = 8. Square = 62
+126: It is Tetrahedron: a = 1, materialDensity = 16. Square = 1
+127: It is Tetrahedron: a = 8, materialDensity = 6. Square = 110
+128: It is Ball: r = 3, materialDensity = 1. Square = 113
+129: It is Tetrahedron: a = 12, materialDensity = 8. Square = 249
+130: It is Ball: r = 12, materialDensity = 17. Square = 1809
+131: It is Parallelepiped: a = 3, b = 1, c = 17, materialDensity = 5. Square = 138
+132: It is Ball: r = 12, materialDensity = 11. Square = 1809
+133: It is Parallelepiped: a = 5, b = 10, c = 8, materialDensity = 5. Square = 340
+134: It is Tetrahedron: a = 5, materialDensity = 10. Square = 43
+135: It is Ball: r = 6, materialDensity = 6. Square = 452
+136: It is Tetrahedron: a = 13, materialDensity = 3. Square = 292
+137: It is Parallelepiped: a = 16, b = 15, c = 10, materialDensity = 5. Square = 1088
+138: It is Tetrahedron: a = 18, materialDensity = 2. Square = 561
+139: It is Tetrahedron: a = 5, materialDensity = 5. Square = 43
+140: It is Parallelepiped: a = 13, b = 4, c = 1, materialDensity = 5. Square = 130
+141: It is Ball: r = 7, materialDensity = 1. Square = 615
+142: It is Ball: r = 14, materialDensity = 11. Square = 2463
+143: It is Parallelepiped: a = 11, b = 13, c = 9, materialDensity = 5. Square = 704
+144: It is Tetrahedron: a = 5, materialDensity = 8. Square = 43
+145: It is Ball: r = 20, materialDensity = 15. Square = 5026
+146: It is Tetrahedron: a = 1, materialDensity = 14. Square = 1
+147: It is Tetrahedron: a = 19, materialDensity = 7. Square = 625
+148: It is Parallelepiped: a = 15, b = 11, c = 7, materialDensity = 5. Square = 690
+149: It is Parallelepiped: a = 7, b = 3, c = 11, materialDensity = 5. Square = 252
+150: It is Ball: r = 18, materialDensity = 11. Square = 4071
+151: It is Tetrahedron: a = 18, materialDensity = 1. Square = 561
+152: It is Tetrahedron: a = 6, materialDensity = 16. Square = 62
+153: It is Tetrahedron: a = 2, materialDensity = 15. Square = 6
+154: It is Tetrahedron: a = 14, materialDensity = 10. Square = 339
+155: It is Parallelepiped: a = 14, b = 15, c = 18, materialDensity = 5. Square = 1456
+156: It is Ball: r = 15, materialDensity = 18. Square = 2827
+157: It is Ball: r = 13, materialDensity = 17. Square = 2123
+158: It is Parallelepiped: a = 19, b = 19, c = 20, materialDensity = 5. Square = 2242
+159: It is Tetrahedron: a = 17, materialDensity = 5. Square = 500
+160: It is Parallelepiped: a = 6, b = 5, c = 8, materialDensity = 5. Square = 228
+161: It is Parallelepiped: a = 6, b = 16, c = 7, materialDensity = 5. Square = 492
+162: It is Ball: r = 8, materialDensity = 5. Square = 804
+163: It is Tetrahedron: a = 14, materialDensity = 15. Square = 339
+164: It is Tetrahedron: a = 6, materialDensity = 1. Square = 62
+165: It is Parallelepiped: a = 9, b = 13, c = 16, materialDensity = 5. Square = 936
+166: It is Tetrahedron: a = 14, materialDensity = 9. Square = 339
+167: It is Parallelepiped: a = 7, b = 17, c = 2, materialDensity = 5. Square = 322
+168: It is Parallelepiped: a = 18, b = 16, c = 16, materialDensity = 5. Square = 1656
+169: It is Tetrahedron: a = 11, materialDensity = 8. Square = 209
+170: It is Ball: r = 12, materialDensity = 7. Square = 1809
+171: It is Ball: r = 18, materialDensity = 20. Square = 4071
+172: It is Tetrahedron: a = 7, materialDensity = 5. Square = 84
+173: It is Tetrahedron: a = 6, materialDensity = 6. Square = 62
+174: It is Tetrahedron: a = 1, materialDensity = 15. Square = 1
+175: It is Tetrahedron: a = 15, materialDensity = 15. Square = 389
+176: It is Ball: r = 13, materialDensity = 3. Square = 2123
+177: It is Tetrahedron: a = 2, materialDensity = 16. Square = 6
+178: It is Tetrahedron: a = 17, materialDensity = 3. Square = 500
+179: It is Parallelepiped: a = 10, b = 13, c = 19, materialDensity = 5. Square = 1120
+180: It is Parallelepiped: a = 17, b = 7, c = 13, materialDensity = 5. Square = 850
+181: It is Tetrahedron: a = 20, materialDensity = 12. Square = 692
+182: It is Tetrahedron: a = 5, materialDensity = 17. Square = 43
+183: It is Parallelepiped: a = 18, b = 3, c = 17, materialDensity = 5. Square = 792
+184: It is Ball: r = 9, materialDensity = 16. Square = 1017
+185: It is Tetrahedron: a = 13, materialDensity = 17. Square = 292
+186: It is Ball: r = 15, materialDensity = 6. Square = 2827
+187: It is Tetrahedron: a = 6, materialDensity = 7. Square = 62
+188: It is Parallelepiped: a = 16, b = 6, c = 8, materialDensity = 5. Square = 544
+189: It is Tetrahedron: a = 13, materialDensity = 19. Square = 292
+190: It is Tetrahedron: a = 12, materialDensity = 11. Square = 249
+191: It is Tetrahedron: a = 8, materialDensity = 19. Square = 110
+192: It is Parallelepiped: a = 17, b = 14, c = 15, materialDensity = 5. Square = 1394
+193: It is Parallelepiped: a = 3, b = 8, c = 1, materialDensity = 5. Square = 66
+194: It is Parallelepiped: a = 6, b = 2, c = 1, materialDensity = 5. Square = 36
+195: It is Parallelepiped: a = 7, b = 6, c = 15, materialDensity = 5. Square = 462
+196: It is Ball: r = 6, materialDensity = 9. Square = 452
+197: It is Tetrahedron: a = 17, materialDensity = 4. Square = 500
+198: It is Ball: r = 19, materialDensity = 16. Square = 4536
+199: It is Tetrahedron: a = 9, materialDensity = 14. Square = 140
+200: It is Ball: r = 2, materialDensity = 8. Square = 50
+201: It is Tetrahedron: a = 12, materialDensity = 10. Square = 249
+202: It is Tetrahedron: a = 4, materialDensity = 16. Square = 27
+203: It is Parallelepiped: a = 1, b = 9, c = 11, materialDensity = 5. Square = 238
+204: It is Parallelepiped: a = 17, b = 11, c = 2, materialDensity = 5. Square = 476
+205: It is Parallelepiped: a = 19, b = 1, c = 16, materialDensity = 5. Square = 646
+206: It is Tetrahedron: a = 16, materialDensity = 13. Square = 443
+207: It is Parallelepiped: a = 7, b = 2, c = 5, materialDensity = 5. Square = 112
+208: It is Tetrahedron: a = 12, materialDensity = 1. Square = 249
+209: It is Tetrahedron: a = 13, materialDensity = 7. Square = 292
+210: It is Tetrahedron: a = 1, materialDensity = 17. Square = 1
+211: It is Tetrahedron: a = 9, materialDensity = 7. Square = 140
+212: It is Parallelepiped: a = 16, b = 15, c = 18, materialDensity = 5. Square = 1568
+213: It is Parallelepiped: a = 17, b = 8, c = 20, materialDensity = 5. Square = 1258
+214: It is Parallelepiped: a = 16, b = 19, c = 7, materialDensity = 5. Square = 1088
+215: It is Parallelepiped: a = 20, b = 4, c = 11, materialDensity = 5. Square = 680
+216: It is Tetrahedron: a = 3, materialDensity = 20. Square = 15
+217: It is Ball: r = 10, materialDensity = 12. Square = 1256
+218: It is Parallelepiped: a = 6, b = 13, c = 13, materialDensity = 5. Square = 648
+219: It is Ball: r = 20, materialDensity = 18. Square = 5026
+220: It is Tetrahedron: a = 9, materialDensity = 17. Square = 140
+221: It is Tetrahedron: a = 16, materialDensity = 17. Square = 443
+222: It is Ball: r = 9, materialDensity = 12. Square = 1017
+223: It is Ball: r = 15, materialDensity = 11. Square = 2827
+224: It is Parallelepiped: a = 14, b = 15, c = 13, materialDensity = 5. Square = 1148
+225: It is Tetrahedron: a = 8, materialDensity = 19. Square = 110
+226: It is Tetrahedron: a = 17, materialDensity = 10. Square = 500
+227: It is Tetrahedron: a = 14, materialDensity = 15. Square = 339
+228: It is Ball: r = 17, materialDensity = 14. Square = 3631
+229: It is Ball: r = 6, materialDensity = 14. Square = 452
+230: It is Tetrahedron: a = 3, materialDensity = 18. Square = 15
+231: It is Parallelepiped: a = 11, b = 5, c = 8, materialDensity = 5. Square = 352
+232: It is Parallelepiped: a = 2, b = 13, c = 6, materialDensity = 5. Square = 232
+233: It is Parallelepiped: a = 18, b = 7, c = 4, materialDensity = 5. Square = 432
+234: It is Parallelepiped: a = 8, b = 13, c = 6, materialDensity = 5. Square = 448
+235: It is Tetrahedron: a = 20, materialDensity = 20. Square = 692
+236: It is Tetrahedron: a = 13, materialDensity = 12. Square = 292
+237: It is Parallelepiped: a = 6, b = 15, c = 6, materialDensity = 5. Square = 432
+238: It is Ball: r = 16, materialDensity = 20. Square = 3216
+239: It is Parallelepiped: a = 9, b = 2, c = 2, materialDensity = 5. Square = 72
+240: It is Ball: r = 9, materialDensity = 11. Square = 1017
+241: It is Ball: r = 15, materialDensity = 14. Square = 2827
+242: It is Ball: r = 11, materialDensity = 14. Square = 1520
+243: It is Tetrahedron: a = 17, materialDensity = 1. Square = 500
+244: It is Parallelepiped: a = 16, b = 1, c = 1, materialDensity = 5. Square = 64
+245: It is Ball: r = 4, materialDensity = 6. Square = 201
+246: It is Parallelepiped: a = 9, b = 13, c = 11, materialDensity = 5. Square = 702
+247: It is Ball: r = 11, materialDensity = 4. Square = 1520
+248: It is Ball: r = 5, materialDensity = 17. Square = 314
+249: It is Tetrahedron: a = 5, materialDensity = 7. Square = 43
+250: It is Tetrahedron: a = 12, materialDensity = 13. Square = 249
+251: It is Ball: r = 2, materialDensity = 6. Square = 50
+252: It is Tetrahedron: a = 10, materialDensity = 6. Square = 173
+253: It is Tetrahedron: a = 6, materialDensity = 18. Square = 62
+254: It is Parallelepiped: a = 6, b = 1, c = 3, materialDensity = 5. Square = 48
+255: It is Parallelepiped: a = 3, b = 15, c = 13, materialDensity = 5. Square = 558
+256: It is Parallelepiped: a = 4, b = 1, c = 15, materialDensity = 5. Square = 152
+257: It is Ball: r = 18, materialDensity = 4. Square = 4071
+258: It is Parallelepiped: a = 9, b = 15, c = 20, materialDensity = 5. Square = 1224
+259: It is Ball: r = 5, materialDensity = 5. Square = 314
+260: It is Tetrahedron: a = 2, materialDensity = 4. Square = 6
+261: It is Tetrahedron: a = 12, materialDensity = 15. Square = 249
+262: It is Parallelepiped: a = 12, b = 17, c = 15, materialDensity = 5. Square = 1272
+263: It is Parallelepiped: a = 9, b = 7, c = 20, materialDensity = 5. Square = 756
+264: It is Ball: r = 12, materialDensity = 13. Square = 1809
+265: It is Parallelepiped: a = 1, b = 2, c = 16, materialDensity = 5. Square = 100
+266: It is Tetrahedron: a = 3, materialDensity = 15. Square = 15
+267: It is Tetrahedron: a = 11, materialDensity = 11. Square = 209
+268: It is Ball: r = 8, materialDensity = 4. Square = 804
+269: It is Parallelepiped: a = 15, b = 15, c = 18, materialDensity = 5. Square = 1530
+270: It is Ball: r = 6, materialDensity = 20. Square = 452
+271: It is Ball: r = 16, materialDensity = 1. Square = 3216
+272: It is Ball: r = 15, materialDensity = 11. Square = 2827
+273: It is Parallelepiped: a = 19, b = 3, c = 15, materialDensity = 5. Square = 760
+274: It is Ball: r = 11, materialDensity = 6. Square = 1520
+275: It is Tetrahedron: a = 13, materialDensity = 12. Square = 292
+276: It is Tetrahedron: a = 15, materialDensity = 2. Square = 389
+277: It is Parallelepiped: a = 14, b = 5, c = 13, materialDensity = 5. Square = 616
+278: It is Parallelepiped: a = 11, b = 14, c = 10, materialDensity = 5. Square = 792
+279: It is Parallelepiped: a = 1, b = 12, c = 5, materialDensity = 5. Square = 154
+280: It is Tetrahedron: a = 15, materialDensity = 5. Square = 389
+281: It is Tetrahedron: a = 9, materialDensity = 12. Square = 140
+282: It is Ball: r = 4, materialDensity = 14. Square = 201
+283: It is Tetrahedron: a = 20, materialDensity = 6. Square = 692
+284: It is Parallelepiped: a = 1, b = 12, c = 15, materialDensity = 5. Square = 414
+285: It is Ball: r = 12, materialDensity = 2. Square = 1809
+286: It is Ball: r = 3, materialDensity = 12. Square = 113
+287: It is Ball: r = 12, materialDensity = 20. Square = 1809
+288: It is Tetrahedron: a = 4, materialDensity = 3. Square = 27
+289: It is Ball: r = 18, materialDensity = 12. Square = 4071
+290: It is Tetrahedron: a = 3, materialDensity = 20. Square = 15
+291: It is Ball: r = 6, materialDensity = 5. Square = 452
+292: It is Tetrahedron: a = 19, materialDensity = 8. Square = 625
+293: It is Tetrahedron: a = 16, materialDensity = 1. Square = 443
+294: It is Tetrahedron: a = 7, materialDensity = 8. Square = 84
+295: It is Parallelepiped: a = 11, b = 11, c = 7, materialDensity = 5. Square = 550
+296: It is Tetrahedron: a = 11, materialDensity = 4. Square = 209
+297: It is Parallelepiped: a = 10, b = 6, c = 11, materialDensity = 5. Square = 460
+298: It is Parallelepiped: a = 9, b = 3, c = 4, materialDensity = 5. Square = 144
+299: It is Parallelepiped: a = 5, b = 8, c = 19, materialDensity = 5. Square = 570
+300: It is Ball: r = 18, materialDensity = 18. Square = 4071
+301: It is Parallelepiped: a = 10, b = 14, c = 19, materialDensity = 5. Square = 1180
+302: It is Ball: r = 1, materialDensity = 11. Square = 12
+303: It is Tetrahedron: a = 8, materialDensity = 15. Square = 110
+304: It is Tetrahedron: a = 11, materialDensity = 2. Square = 209
+305: It is Ball: r = 8, materialDensity = 5. Square = 804
+306: It is Ball: r = 19, materialDensity = 5. Square = 4536
+307: It is Ball: r = 15, materialDensity = 7. Square = 2827
+308: It is Parallelepiped: a = 11, b = 6, c = 9, materialDensity = 5. Square = 418
+309: It is Tetrahedron: a = 18, materialDensity = 1. Square = 561
+310: It is Ball: r = 20, materialDensity = 14. Square = 5026
+311: It is Parallelepiped: a = 8, b = 4, c = 9, materialDensity = 5. Square = 272
+312: It is Parallelepiped: a = 8, b = 5, c = 19, materialDensity = 5. Square = 560
+313: It is Ball: r = 7, materialDensity = 6. Square = 615
+314: It is Tetrahedron: a = 9, materialDensity = 17. Square = 140
+315: It is Parallelepiped: a = 6, b = 3, c = 5, materialDensity = 5. Square = 120
+316: It is Tetrahedron: a = 2, materialDensity = 5. Square = 6
+317: It is Tetrahedron: a = 16, materialDensity = 15. Square = 443
+318: It is Ball: r = 14, materialDensity = 14. Square = 2463
+319: It is Tetrahedron: a = 10, materialDensity = 13. Square = 173
+320: It is Ball: r = 10, materialDensity = 3. Square = 1256
+321: It is Parallelepiped: a = 18, b = 20, c = 9, materialDensity = 5. Square = 1404
+322: It is Parallelepiped: a = 7, b = 5, c = 4, materialDensity = 5. Square = 154
+323: It is Parallelepiped: a = 2, b = 1, c = 15, materialDensity = 5. Square = 92
+324: It is Parallelepiped: a = 12, b = 11, c = 13, materialDensity = 5. Square = 840
+325: It is Ball: r = 7, materialDensity = 20. Square = 615
+326: It is Parallelepiped: a = 12, b = 6, c = 12, materialDensity = 5. Square = 576
+327: It is Tetrahedron: a = 1, materialDensity = 19. Square = 1
+328: It is Parallelepiped: a = 18, b = 10, c = 1, materialDensity = 5. Square = 396
+329: It is Ball: r = 7, materialDensity = 2. Square = 615
+330: It is Ball: r = 14, materialDensity = 14. Square = 2463
+331: It is Tetrahedron: a = 6, materialDensity = 1. Square = 62
+332: It is Tetrahedron: a = 2, materialDensity = 12. Square = 6
+333: It is Ball: r = 6, materialDensity = 3. Square = 452
+334: It is Parallelepiped: a = 5, b = 14, c = 9, materialDensity = 5. Square = 480
+335: It is Tetrahedron: a = 20, materialDensity = 12. Square = 692
+336: It is Tetrahedron: a = 1, materialDensity = 3. Square = 1
+337: It is Ball: r = 10, materialDensity = 12. Square = 1256
+338: It is Parallelepiped: a = 7, b = 11, c = 18, materialDensity = 5. Square = 798
+339: It is Tetrahedron: a = 11, materialDensity = 13. Square = 209
+340: It is Tetrahedron: a = 16, materialDensity = 13. Square = 443
+341: It is Parallelepiped: a = 9, b = 16, c = 4, materialDensity = 5. Square = 486
+342: It is Tetrahedron: a = 2, materialDensity = 19. Square = 6
+343: It is Ball: r = 11, materialDensity = 6. Square = 1520
+344: It is Ball: r = 10, materialDensity = 18. Square = 1256
+345: It is Tetrahedron: a = 2, materialDensity = 12. Square = 6
+346: It is Ball: r = 4, materialDensity = 3. Square = 201
+347: It is Parallelepiped: a = 10, b = 5, c = 12, materialDensity = 5. Square = 460
+348: It is Parallelepiped: a = 14, b = 1, c = 19, materialDensity = 5. Square = 588
+349: It is Parallelepiped: a = 20, b = 18, c = 1, materialDensity = 5. Square = 760
+350: It is Parallelepiped: a = 19, b = 5, c = 2, materialDensity = 5. Square = 266
+351: It is Parallelepiped: a = 20, b = 4, c = 8, materialDensity = 5. Square = 520
+352: It is Ball: r = 10, materialDensity = 20. Square = 1256
+353: It is Ball: r = 5, materialDensity = 2. Square = 314
+354: It is Ball: r = 14, materialDensity = 7. Square = 2463
+355: It is Parallelepiped: a = 14, b = 7, c = 16, materialDensity = 5. Square = 868
+356: It is Tetrahedron: a = 17, materialDensity = 11. Square = 500
+357: It is Tetrahedron: a = 15, materialDensity = 12. Square = 389
+358: It is Ball: r = 18, materialDensity = 2. Square = 4071
+359: It is Ball: r = 12, materialDensity = 3. Square = 1809
+360: It is Parallelepiped: a = 3, b = 18, c = 16, materialDensity = 5. Square = 780
+361: It is Parallelepiped: a = 17, b = 10, c = 6, materialDensity = 5. Square = 646
+362: It is Tetrahedron: a = 17, materialDensity = 6. Square = 500
+363: It is Tetrahedron: a = 11, materialDensity = 19. Square = 209
+364: It is Parallelepiped: a = 19, b = 5, c = 11, materialDensity = 5. Square = 684
+365: It is Parallelepiped: a = 7, b = 1, c = 18, materialDensity = 5. Square = 294
+366: It is Tetrahedron: a = 19, materialDensity = 7. Square = 625
+367: It is Ball: r = 1, materialDensity = 7. Square = 12
+368: It is Tetrahedron: a = 10, materialDensity = 14. Square = 173
+369: It is Ball: r = 10, materialDensity = 3. Square = 1256
+370: It is Tetrahedron: a = 8, materialDensity = 3. Square = 110
+371: It is Tetrahedron: a = 16, materialDensity = 1. Square = 443
+372: It is Ball: r = 7, materialDensity = 11. Square = 615
+373: It is Parallelepiped: a = 17, b = 7, c = 7, materialDensity = 5. Square = 544
+374: It is Tetrahedron: a = 13, materialDensity = 4. Square = 292
+375: It is Ball: r = 9, materialDensity = 14. Square = 1017
+376: It is Parallelepiped: a = 7, b = 19, c = 2, materialDensity = 5. Square = 364
+377: It is Parallelepiped: a = 4, b = 18, c = 11, materialDensity = 5. Square = 624
+378: It is Ball: r = 5, materialDensity = 12. Square = 314
+379: It is Tetrahedron: a = 13, materialDensity = 8. Square = 292
+380: It is Ball: r = 2, materialDensity = 6. Square = 50
+381: It is Ball: r = 6, materialDensity = 14. Square = 452
+382: It is Ball: r = 4, materialDensity = 16. Square = 201
+383: It is Tetrahedron: a = 8, materialDensity = 19. Square = 110
+384: It is Ball: r = 16, materialDensity = 4. Square = 3216
+385: It is Tetrahedron: a = 2, materialDensity = 2. Square = 6
+386: It is Parallelepiped: a = 6, b = 7, c = 17, materialDensity = 5. Square = 516
+387: It is Ball: r = 1, materialDensity = 3. Square = 12
+388: It is Tetrahedron: a = 13, materialDensity = 17. Square = 292
+389: It is Tetrahedron: a = 12, materialDensity = 3. Square = 249
+390: It is Parallelepiped: a = 17, b = 19, c = 4, materialDensity = 5. Square = 918
+391: It is Ball: r = 7, materialDensity = 17. Square = 615
+392: It is Ball: r = 14, materialDensity = 16. Square = 2463
+393: It is Tetrahedron: a = 1, materialDensity = 11. Square = 1
+394: It is Parallelepiped: a = 2, b = 5, c = 13, materialDensity = 5. Square = 200
+395: It is Parallelepiped: a = 9, b = 2, c = 8, materialDensity = 5. Square = 198
+396: It is Parallelepiped: a = 12, b = 14, c = 4, materialDensity = 5. Square = 528
+397: It is Tetrahedron: a = 6, materialDensity = 8. Square = 62
+398: It is Parallelepiped: a = 4, b = 3, c = 14, materialDensity = 5. Square = 216
+399: It is Tetrahedron: a = 10, materialDensity = 19. Square = 173
+400: It is Tetrahedron: a = 17, materialDensity = 19. Square = 500
+401: It is Ball: r = 8, materialDensity = 11. Square = 804
+402: It is Ball: r = 12, materialDensity = 3. Square = 1809
+403: It is Parallelepiped: a = 2, b = 4, c = 13, materialDensity = 5. Square = 172
+404: It is Tetrahedron: a = 8, materialDensity = 13. Square = 110
+405: It is Parallelepiped: a = 11, b = 13, c = 2, materialDensity = 5. Square = 374
+406: It is Tetrahedron: a = 6, materialDensity = 11. Square = 62
+407: It is Ball: r = 19, materialDensity = 20. Square = 4536
+408: It is Ball: r = 8, materialDensity = 19. Square = 804
+409: It is Ball: r = 17, materialDensity = 9. Square = 3631
+410: It is Ball: r = 4, materialDensity = 19. Square = 201
+411: It is Parallelepiped: a = 15, b = 14, c = 17, materialDensity = 5. Square = 1380
+412: It is Tetrahedron: a = 1, materialDensity = 1. Square = 1
+413: It is Tetrahedron: a = 8, materialDensity = 5. Square = 110
+414: It is Ball: r = 10, materialDensity = 17. Square = 1256
+415: It is Parallelepiped: a = 17, b = 9, c = 16, materialDensity = 5. Square = 1122
+416: It is Parallelepiped: a = 14, b = 7, c = 6, materialDensity = 5. Square = 448
+417: It is Parallelepiped: a = 7, b = 1, c = 5, materialDensity = 5. Square = 84
+418: It is Ball: r = 16, materialDensity = 13. Square = 3216
+419: It is Ball: r = 9, materialDensity = 9. Square = 1017
+420: It is Tetrahedron: a = 17, materialDensity = 9. Square = 500
+421: It is Tetrahedron: a = 9, materialDensity = 8. Square = 140
+422: It is Tetrahedron: a = 18, materialDensity = 17. Square = 561
+423: It is Tetrahedron: a = 8, materialDensity = 5. Square = 110
+424: It is Tetrahedron: a = 15, materialDensity = 11. Square = 389
+425: It is Ball: r = 20, materialDensity = 9. Square = 5026
+426: It is Tetrahedron: a = 4, materialDensity = 5. Square = 27
+427: It is Tetrahedron: a = 5, materialDensity = 2. Square = 43
+428: It is Ball: r = 8, materialDensity = 17. Square = 804
+429: It is Tetrahedron: a = 10, materialDensity = 17. Square = 173
+430: It is Parallelepiped: a = 19, b = 13, c = 15, materialDensity = 5. Square = 1444
+431: It is Parallelepiped: a = 2, b = 17, c = 10, materialDensity = 5. Square = 448
+432: It is Tetrahedron: a = 9, materialDensity = 6. Square = 140
+433: It is Ball: r = 3, materialDensity = 8. Square = 113
+434: It is Parallelepiped: a = 2, b = 17, c = 12, materialDensity = 5. Square = 524
+435: It is Ball: r = 11, materialDensity = 9. Square = 1520
+436: It is Tetrahedron: a = 13, materialDensity = 9. Square = 292
+437: It is Tetrahedron: a = 7, materialDensity = 18. Square = 84
+438: It is Tetrahedron: a = 1, materialDensity = 8. Square = 1
+439: It is Tetrahedron: a = 7, materialDensity = 19. Square = 84
+440: It is Parallelepiped: a = 20, b = 7, c = 11, materialDensity = 5. Square = 840
+441: It is Parallelepiped: a = 19, b = 6, c = 11, materialDensity = 5. Square = 760
+442: It is Tetrahedron: a = 2, materialDensity = 14. Square = 6
+443: It is Tetrahedron: a = 13, materialDensity = 19. Square = 292
+444: It is Ball: r = 3, materialDensity = 19. Square = 113
+445: It is Tetrahedron: a = 7, materialDensity = 7. Square = 84
+446: It is Ball: r = 13, materialDensity = 16. Square = 2123
+447: It is Ball: r = 5, materialDensity = 15. Square = 314
+448: It is Parallelepiped: a = 3, b = 13, c = 9, materialDensity = 5. Square = 366
+449: It is Ball: r = 12, materialDensity = 2. Square = 1809
+450: It is Tetrahedron: a = 10, materialDensity = 7. Square = 173
+451: It is Ball: r = 3, materialDensity = 11. Square = 113
+452: It is Tetrahedron: a = 8, materialDensity = 12. Square = 110
+453: It is Ball: r = 6, materialDensity = 5. Square = 452
+454: It is Tetrahedron: a = 17, materialDensity = 3. Square = 500
+455: It is Tetrahedron: a = 15, materialDensity = 3. Square = 389
+456: It is Tetrahedron: a = 3, materialDensity = 1. Square = 15
+457: It is Ball: r = 17, materialDensity = 8. Square = 3631
+458: It is Ball: r = 2, materialDensity = 8. Square = 50
+459: It is Ball: r = 12, materialDensity = 19. Square = 1809
+460: It is Ball: r = 10, materialDensity = 1. Square = 1256
+461: It is Parallelepiped: a = 11, b = 15, c = 11, materialDensity = 5. Square = 902
+462: It is Tetrahedron: a = 2, materialDensity = 18. Square = 6
+463: It is Tetrahedron: a = 18, materialDensity = 17. Square = 561
+464: It is Parallelepiped: a = 12, b = 3, c = 2, materialDensity = 5. Square = 120
+465: It is Tetrahedron: a = 4, materialDensity = 7. Square = 27
+466: It is Parallelepiped: a = 1, b = 6, c = 13, materialDensity = 5. Square = 194
+467: It is Tetrahedron: a = 14, materialDensity = 17. Square = 339
+468: It is Tetrahedron: a = 3, materialDensity = 7. Square = 15
+469: It is Tetrahedron: a = 3, materialDensity = 9. Square = 15
+470: It is Tetrahedron: a = 13, materialDensity = 12. Square = 292
+471: It is Parallelepiped: a = 14, b = 1, c = 18, materialDensity = 5. Square = 560
+472: It is Tetrahedron: a = 13, materialDensity = 14. Square = 292
+473: It is Tetrahedron: a = 15, materialDensity = 20. Square = 389
+474: It is Tetrahedron: a = 18, materialDensity = 18. Square = 561
+475: It is Ball: r = 10, materialDensity = 3. Square = 1256
+476: It is Ball: r = 15, materialDensity = 8. Square = 2827
+477: It is Ball: r = 12, materialDensity = 19. Square = 1809
+478: It is Parallelepiped: a = 10, b = 2, c = 6, materialDensity = 5. Square = 180
+479: It is Parallelepiped: a = 18, b = 9, c = 17, materialDensity = 5. Square = 1224
+480: It is Parallelepiped: a = 15, b = 5, c = 19, materialDensity = 5. Square = 900
+481: It is Parallelepiped: a = 2, b = 13, c = 2, materialDensity = 5. Square = 112
+482: It is Parallelepiped: a = 20, b = 20, c = 4, materialDensity = 5. Square = 1120
+483: It is Tetrahedron: a = 19, materialDensity = 1. Square = 625
+484: It is Ball: r = 2, materialDensity = 11. Square = 50
+485: It is Parallelepiped: a = 3, b = 12, c = 6, materialDensity = 5. Square = 252
+486: It is Ball: r = 15, materialDensity = 20. Square = 2827
+487: It is Parallelepiped: a = 18, b = 1, c = 5, materialDensity = 5. Square = 216
+488: It is Tetrahedron: a = 3, materialDensity = 4. Square = 15
+489: It is Ball: r = 16, materialDensity = 6. Square = 3216
+490: It is Tetrahedron: a = 10, materialDensity = 17. Square = 173
+491: It is Parallelepiped: a = 5, b = 10, c = 6, materialDensity = 5. Square = 280
+492: It is Parallelepiped: a = 2, b = 16, c = 1, materialDensity = 5. Square = 100
+493: It is Ball: r = 5, materialDensity = 18. Square = 314
+494: It is Ball: r = 6, materialDensity = 5. Square = 452
+495: It is Ball: r = 16, materialDensity = 2. Square = 3216
+496: It is Parallelepiped: a = 20, b = 7, c = 4, materialDensity = 5. Square = 480
+497: It is Tetrahedron: a = 7, materialDensity = 10. Square = 84
+498: It is Tetrahedron: a = 18, materialDensity = 19. Square = 561
+499: It is Tetrahedron: a = 8, materialDensity = 3. Square = 110
+500: It is Tetrahedron: a = 5, materialDensity = 18. Square = 43
+501: It is Parallelepiped: a = 18, b = 5, c = 8, materialDensity = 5. Square = 540
+502: It is Tetrahedron: a = 4, materialDensity = 20. Square = 27
+503: It is Ball: r = 9, materialDensity = 4. Square = 1017
+504: It is Ball: r = 17, materialDensity = 17. Square = 3631
+505: It is Ball: r = 16, materialDensity = 4. Square = 3216
+506: It is Tetrahedron: a = 18, materialDensity = 6. Square = 561
+507: It is Tetrahedron: a = 7, materialDensity = 5. Square = 84
+508: It is Tetrahedron: a = 17, materialDensity = 20. Square = 500
+509: It is Parallelepiped: a = 20, b = 4, c = 15, materialDensity = 5. Square = 880
+510: It is Parallelepiped: a = 12, b = 5, c = 10, materialDensity = 5. Square = 456
+511: It is Parallelepiped: a = 13, b = 14, c = 14, materialDensity = 5. Square = 1118
+512: It is Parallelepiped: a = 20, b = 9, c = 6, materialDensity = 5. Square = 680
+513: It is Ball: r = 1, materialDensity = 13. Square = 12
+514: It is Tetrahedron: a = 18, materialDensity = 18. Square = 561
+515: It is Parallelepiped: a = 2, b = 8, c = 17, materialDensity = 5. Square = 372
+516: It is Parallelepiped: a = 8, b = 16, c = 3, materialDensity = 5. Square = 400
+517: It is Tetrahedron: a = 7, materialDensity = 13. Square = 84
+518: It is Tetrahedron: a = 12, materialDensity = 3. Square = 249
+519: It is Parallelepiped: a = 5, b = 8, c = 4, materialDensity = 5. Square = 180
+520: It is Parallelepiped: a = 4, b = 11, c = 18, materialDensity = 5. Square = 624
+521: It is Parallelepiped: a = 3, b = 6, c = 20, materialDensity = 5. Square = 396
+522: It is Ball: r = 13, materialDensity = 19. Square = 2123
+523: It is Ball: r = 5, materialDensity = 7. Square = 314
+524: It is Parallelepiped: a = 20, b = 2, c = 1, materialDensity = 5. Square = 120
+525: It is Parallelepiped: a = 5, b = 4, c = 11, materialDensity = 5. Square = 230
+526: It is Ball: r = 8, materialDensity = 7. Square = 804
+527: It is Tetrahedron: a = 13, materialDensity = 14. Square = 292
+528: It is Ball: r = 3, materialDensity = 4. Square = 113
+529: It is Tetrahedron: a = 17, materialDensity = 18. Square = 500
+530: It is Ball: r = 16, materialDensity = 17. Square = 3216
+531: It is Ball: r = 20, materialDensity = 7. Square = 5026
+532: It is Parallelepiped: a = 4, b = 13, c = 9, materialDensity = 5. Square = 408
+533: It is Ball: r = 10, materialDensity = 4. Square = 1256
+534: It is Tetrahedron: a = 6, materialDensity = 8. Square = 62
+535: It is Parallelepiped: a = 5, b = 14, c = 15, materialDensity = 5. Square = 710
+536: It is Parallelepiped: a = 19, b = 17, c = 19, materialDensity = 5. Square = 2014
+537: It is Parallelepiped: a = 7, b = 9, c = 17, materialDensity = 5. Square = 658
+538: It is Parallelepiped: a = 5, b = 10, c = 15, materialDensity = 5. Square = 550
+539: It is Tetrahedron: a = 10, materialDensity = 16. Square = 173
+540: It is Ball: r = 4, materialDensity = 1. Square = 201
+541: It is Ball: r = 8, materialDensity = 18. Square = 804
+542: It is Parallelepiped: a = 7, b = 17, c = 5, materialDensity = 5. Square = 476
+543: It is Ball: r = 16, materialDensity = 6. Square = 3216
+544: It is Tetrahedron: a = 13, materialDensity = 16. Square = 292
+545: It is Parallelepiped: a = 4, b = 3, c = 1, materialDensity = 5. Square = 32
+546: It is Tetrahedron: a = 16, materialDensity = 5. Square = 443
+547: It is Ball: r = 2, materialDensity = 16. Square = 50
+548: It is Ball: r = 11, materialDensity = 11. Square = 1520
+549: It is Ball: r = 14, materialDensity = 3. Square = 2463
+550: It is Tetrahedron: a = 13, materialDensity = 12. Square = 292
+551: It is Ball: r = 19, materialDensity = 8. Square = 4536
+552: It is Parallelepiped: a = 10, b = 10, c = 9, materialDensity = 5. Square = 560
+553: It is Ball: r = 13, materialDensity = 3. Square = 2123
+554: It is Parallelepiped: a = 16, b = 17, c = 6, materialDensity = 5. Square = 928
+555: It is Tetrahedron: a = 13, materialDensity = 5. Square = 292
+556: It is Tetrahedron: a = 14, materialDensity = 20. Square = 339
+557: It is Ball: r = 4, materialDensity = 2. Square = 201
+558: It is Parallelepiped: a = 10, b = 16, c = 11, materialDensity = 5. Square = 880
+559: It is Parallelepiped: a = 19, b = 13, c = 7, materialDensity = 5. Square = 912
+560: It is Tetrahedron: a = 17, materialDensity = 11. Square = 500
+561: It is Tetrahedron: a = 10, materialDensity = 15. Square = 173
+562: It is Ball: r = 16, materialDensity = 11. Square = 3216
+563: It is Ball: r = 1, materialDensity = 10. Square = 12
+564: It is Tetrahedron: a = 14, materialDensity = 14. Square = 339
+565: It is Ball: r = 7, materialDensity = 5. Square = 615
+566: It is Ball: r = 3, materialDensity = 18. Square = 113
+567: It is Tetrahedron: a = 12, materialDensity = 14. Square = 249
+568: It is Ball: r = 5, materialDensity = 13. Square = 314
+569: It is Parallelepiped: a = 17, b = 19, c = 6, materialDensity = 5. Square = 1054
+570: It is Ball: r = 8, materialDensity = 15. Square = 804
+571: It is Tetrahedron: a = 3, materialDensity = 9. Square = 15
+572: It is Ball: r = 5, materialDensity = 19. Square = 314
+573: It is Tetrahedron: a = 14, materialDensity = 10. Square = 339
+574: It is Parallelepiped: a = 20, b = 14, c = 16, materialDensity = 5. Square = 1640
+575: It is Tetrahedron: a = 18, materialDensity = 2. Square = 561
+576: It is Parallelepiped: a = 1, b = 7, c = 10, materialDensity = 5. Square = 174
+577: It is Tetrahedron: a = 4, materialDensity = 14. Square = 27
+578: It is Parallelepiped: a = 1, b = 8, c = 16, materialDensity = 5. Square = 304
+579: It is Tetrahedron: a = 12, materialDensity = 3. Square = 249
+580: It is Tetrahedron: a = 15, materialDensity = 19. Square = 389
+581: It is Ball: r = 18, materialDensity = 4. Square = 4071
+582: It is Ball: r = 7, materialDensity = 3. Square = 615
+583: It is Parallelepiped: a = 14, b = 7, c = 5, materialDensity = 5. Square = 392
+584: It is Parallelepiped: a = 1, b = 3, c = 6, materialDensity = 5. Square = 54
+585: It is Ball: r = 4, materialDensity = 6. Square = 201
+586: It is Tetrahedron: a = 12, materialDensity = 18. Square = 249
+587: It is Parallelepiped: a = 7, b = 18, c = 12, materialDensity = 5. Square = 840
+588: It is Parallelepiped: a = 13, b = 4, c = 18, materialDensity = 5. Square = 702
+589: It is Tetrahedron: a = 14, materialDensity = 1. Square = 339
+590: It is Parallelepiped: a = 16, b = 3, c = 5, materialDensity = 5. Square = 256
+591: It is Ball: r = 7, materialDensity = 5. Square = 615
+592: It is Tetrahedron: a = 1, materialDensity = 10. Square = 1
+593: It is Tetrahedron: a = 19, materialDensity = 5. Square = 625
+594: It is Ball: r = 3, materialDensity = 9. Square = 113
+595: It is Ball: r = 5, materialDensity = 15. Square = 314
+596: It is Parallelepiped: a = 17, b = 17, c = 12, materialDensity = 5. Square = 1394
+597: It is Tetrahedron: a = 2, materialDensity = 13. Square = 6
+598: It is Tetrahedron: a = 15, materialDensity = 13. Square = 389
+599: It is Ball: r = 2, materialDensity = 7. Square = 50
+600: It is Tetrahedron: a = 8, materialDensity = 5. Square = 110
+601: It is Ball: r = 12, materialDensity = 3. Square = 1809
+602: It is Parallelepiped: a = 14, b = 15, c = 17, materialDensity = 5. Square = 1400
+603: It is Parallelepiped: a = 11, b = 18, c = 7, materialDensity = 5. Square = 792
+604: It is Ball: r = 19, materialDensity = 3. Square = 4536
+605: It is Tetrahedron: a = 10, materialDensity = 4. Square = 173
+606: It is Parallelepiped: a = 3, b = 16, c = 17, materialDensity = 5. Square = 738
+607: It is Ball: r = 20, materialDensity = 11. Square = 5026
+608: It is Parallelepiped: a = 12, b = 10, c = 10, materialDensity = 5. Square = 672
+609: It is Parallelepiped: a = 12, b = 15, c = 14, materialDensity = 5. Square = 1104
+610: It is Tetrahedron: a = 4, materialDensity = 10. Square = 27
+611: It is Tetrahedron: a = 1, materialDensity = 16. Square = 1
+612: It is Ball: r = 5, materialDensity = 14. Square = 314
+613: It is Ball: r = 5, materialDensity = 16. Square = 314
+614: It is Tetrahedron: a = 17, materialDensity = 10. Square = 500
+615: It is Parallelepiped: a = 13, b = 19, c = 19, materialDensity = 5. Square = 1690
+616: It is Parallelepiped: a = 12, b = 15, c = 10, materialDensity = 5. Square = 888
+617: It is Tetrahedron: a = 2, materialDensity = 4. Square = 6
+618: It is Tetrahedron: a = 16, materialDensity = 14. Square = 443
+619: It is Tetrahedron: a = 19, materialDensity = 4. Square = 625
+620: It is Parallelepiped: a = 19, b = 11, c = 14, materialDensity = 5. Square = 1254
+621: It is Tetrahedron: a = 15, materialDensity = 20. Square = 389
+622: It is Ball: r = 11, materialDensity = 16. Square = 1520
+623: It is Tetrahedron: a = 2, materialDensity = 8. Square = 6
+624: It is Tetrahedron: a = 20, materialDensity = 4. Square = 692
+625: It is Ball: r = 3, materialDensity = 18. Square = 113
+626: It is Tetrahedron: a = 15, materialDensity = 1. Square = 389
+627: It is Ball: r = 11, materialDensity = 10. Square = 1520
+628: It is Tetrahedron: a = 4, materialDensity = 1. Square = 27
+629: It is Tetrahedron: a = 7, materialDensity = 16. Square = 84
+630: It is Ball: r = 18, materialDensity = 10. Square = 4071
+631: It is Parallelepiped: a = 14, b = 16, c = 4, materialDensity = 5. Square = 672
+632: It is Tetrahedron: a = 19, materialDensity = 17. Square = 625
+633: It is Parallelepiped: a = 19, b = 8, c = 20, materialDensity = 5. Square = 1368
+634: It is Parallelepiped: a = 14, b = 11, c = 14, materialDensity = 5. Square = 1008
+635: It is Parallelepiped: a = 7, b = 19, c = 13, materialDensity = 5. Square = 938
+636: It is Ball: r = 14, materialDensity = 17. Square = 2463
+637: It is Parallelepiped: a = 9, b = 5, c = 18, materialDensity = 5. Square = 594
+638: It is Parallelepiped: a = 3, b = 6, c = 4, materialDensity = 5. Square = 108
+639: It is Ball: r = 14, materialDensity = 7. Square = 2463
+640: It is Tetrahedron: a = 12, materialDensity = 6. Square = 249
+641: It is Parallelepiped: a = 5, b = 16, c = 8, materialDensity = 5. Square = 490
+642: It is Parallelepiped: a = 8, b = 19, c = 7, materialDensity = 5. Square = 672
+643: It is Parallelepiped: a = 5, b = 19, c = 16, materialDensity = 5. Square = 950
+644: It is Parallelepiped: a = 17, b = 5, c = 8, materialDensity = 5. Square = 510
+645: It is Ball: r = 10, materialDensity = 15. Square = 1256
+646: It is Ball: r = 20, materialDensity = 18. Square = 5026
+647: It is Ball: r = 7, materialDensity = 5. Square = 615
+648: It is Ball: r = 12, materialDensity = 18. Square = 1809
+649: It is Parallelepiped: a = 19, b = 17, c = 9, materialDensity = 5. Square = 1292
+650: It is Parallelepiped: a = 19, b = 17, c = 1, materialDensity = 5. Square = 684
+651: It is Tetrahedron: a = 12, materialDensity = 17. Square = 249
+652: It is Tetrahedron: a = 10, materialDensity = 5. Square = 173
+653: It is Parallelepiped: a = 18, b = 2, c = 14, materialDensity = 5. Square = 612
+654: It is Tetrahedron: a = 2, materialDensity = 19. Square = 6
+655: It is Parallelepiped: a = 15, b = 5, c = 10, materialDensity = 5. Square = 540
+656: It is Tetrahedron: a = 20, materialDensity = 12. Square = 692
+657: It is Parallelepiped: a = 16, b = 20, c = 5, materialDensity = 5. Square = 992
+658: It is Parallelepiped: a = 2, b = 4, c = 19, materialDensity = 5. Square = 244
+659: It is Ball: r = 7, materialDensity = 7. Square = 615
+660: It is Parallelepiped: a = 11, b = 16, c = 6, materialDensity = 5. Square = 660
+661: It is Ball: r = 4, materialDensity = 20. Square = 201
+662: It is Parallelepiped: a = 14, b = 6, c = 8, materialDensity = 5. Square = 476
+663: It is Parallelepiped: a = 19, b = 6, c = 6, materialDensity = 5. Square = 494
+664: It is Tetrahedron: a = 14, materialDensity = 10. Square = 339
+665: It is Parallelepiped: a = 17, b = 19, c = 1, materialDensity = 5. Square = 714
+666: It is Tetrahedron: a = 15, materialDensity = 19. Square = 389
+667: It is Tetrahedron: a = 1, materialDensity = 15. Square = 1
+668: It is Parallelepiped: a = 16, b = 12, c = 9, materialDensity = 5. Square = 864
+669: It is Tetrahedron: a = 8, materialDensity = 18. Square = 110
+670: It is Tetrahedron: a = 13, materialDensity = 5. Square = 292
+671: It is Parallelepiped: a = 20, b = 3, c = 15, materialDensity = 5. Square = 800
+672: It is Tetrahedron: a = 18, materialDensity = 10. Square = 561
+673: It is Tetrahedron: a = 18, materialDensity = 6. Square = 561
+674: It is Parallelepiped: a = 18, b = 18, c = 13, materialDensity = 5. Square = 1584
+675: It is Tetrahedron: a = 7, materialDensity = 4. Square = 84
+676: It is Ball: r = 12, materialDensity = 19. Square = 1809
+677: It is Parallelepiped: a = 12, b = 15, c = 19, materialDensity = 5. Square = 1368
+678: It is Ball: r = 19, materialDensity = 4. Square = 4536
+679: It is Parallelepiped: a = 9, b = 15, c = 19, materialDensity = 5. Square = 1170
+680: It is Ball: r = 3, materialDensity = 5. Square = 113
+681: It is Ball: r = 8, materialDensity = 2. Square = 804
+682: It is Parallelepiped: a = 11, b = 11, c = 7, materialDensity = 5. Square = 550
+683: It is Ball: r = 14, materialDensity = 2. Square = 2463
+684: It is Parallelepiped: a = 7, b = 5, c = 17, materialDensity = 5. Square = 476
+685: It is Parallelepiped: a = 11, b = 10, c = 14, materialDensity = 5. Square = 792
+686: It is Parallelepiped: a = 9, b = 9, c = 8, materialDensity = 5. Square = 450
+687: It is Ball: r = 3, materialDensity = 6. Square = 113
+688: It is Parallelepiped: a = 7, b = 18, c = 20, materialDensity = 5. Square = 1246
+689: It is Tetrahedron: a = 3, materialDensity = 2. Square = 15
+690: It is Tetrahedron: a = 17, materialDensity = 16. Square = 500
+691: It is Tetrahedron: a = 18, materialDensity = 14. Square = 561
+692: It is Ball: r = 2, materialDensity = 2. Square = 50
+693: It is Parallelepiped: a = 9, b = 4, c = 5, materialDensity = 5. Square = 198
+694: It is Parallelepiped: a = 13, b = 11, c = 17, materialDensity = 5. Square = 1092
+695: It is Parallelepiped: a = 8, b = 14, c = 3, materialDensity = 5. Square = 352
+696: It is Ball: r = 20, materialDensity = 12. Square = 5026
+697: It is Tetrahedron: a = 6, materialDensity = 6. Square = 62
+698: It is Parallelepiped: a = 11, b = 2, c = 20, materialDensity = 5. Square = 550
+699: It is Ball: r = 13, materialDensity = 15. Square = 2123
+700: It is Parallelepiped: a = 6, b = 10, c = 14, materialDensity = 5. Square = 564
+701: It is Tetrahedron: a = 8, materialDensity = 5. Square = 110
+702: It is Parallelepiped: a = 10, b = 14, c = 10, materialDensity = 5. Square = 760
+703: It is Parallelepiped: a = 16, b = 9, c = 12, materialDensity = 5. Square = 864
+704: It is Ball: r = 15, materialDensity = 10. Square = 2827
+705: It is Ball: r = 20, materialDensity = 14. Square = 5026
+706: It is Tetrahedron: a = 14, materialDensity = 13. Square = 339
+707: It is Ball: r = 17, materialDensity = 18. Square = 3631
+708: It is Tetrahedron: a = 1, materialDensity = 3. Square = 1
+709: It is Parallelepiped: a = 6, b = 12, c = 11, materialDensity = 5. Square = 540
+710: It is Ball: r = 1, materialDensity = 3. Square = 12
+711: It is Parallelepiped: a = 2, b = 9, c = 13, materialDensity = 5. Square = 320
+712: It is Parallelepiped: a = 5, b = 16, c = 17, materialDensity = 5. Square = 870
+713: It is Parallelepiped: a = 14, b = 11, c = 10, materialDensity = 5. Square = 784
+714: It is Tetrahedron: a = 14, materialDensity = 10. Square = 339
+715: It is Ball: r = 11, materialDensity = 5. Square = 1520
+716: It is Ball: r = 6, materialDensity = 1. Square = 452
+717: It is Tetrahedron: a = 17, materialDensity = 11. Square = 500
+718: It is Tetrahedron: a = 16, materialDensity = 3. Square = 443
+719: It is Ball: r = 9, materialDensity = 16. Square = 1017
+720: It is Ball: r = 1, materialDensity = 13. Square = 12
+721: It is Tetrahedron: a = 17, materialDensity = 20. Square = 500
+722: It is Parallelepiped: a = 8, b = 16, c = 8, materialDensity = 5. Square = 640
+723: It is Parallelepiped: a = 9, b = 13, c = 10, materialDensity = 5. Square = 666
+724: It is Parallelepiped: a = 1, b = 14, c = 19, materialDensity = 5. Square = 598
+725: It is Tetrahedron: a = 20, materialDensity = 14. Square = 692
+726: It is Parallelepiped: a = 6, b = 9, c = 18, materialDensity = 5. Square = 648
+727: It is Tetrahedron: a = 14, materialDensity = 9. Square = 339
+728: It is Tetrahedron: a = 18, materialDensity = 6. Square = 561
+729: It is Ball: r = 9, materialDensity = 20. Square = 1017
+730: It is Ball: r = 4, materialDensity = 7. Square = 201
+731: It is Tetrahedron: a = 20, materialDensity = 15. Square = 692
+732: It is Ball: r = 1, materialDensity = 4. Square = 12
+733: It is Tetrahedron: a = 13, materialDensity = 18. Square = 292
+734: It is Tetrahedron: a = 10, materialDensity = 11. Square = 173
+735: It is Ball: r = 3, materialDensity = 7. Square = 113
+736: It is Ball: r = 4, materialDensity = 16. Square = 201
+737: It is Ball: r = 12, materialDensity = 1. Square = 1809
+738: It is Ball: r = 13, materialDensity = 18. Square = 2123
+739: It is Ball: r = 11, materialDensity = 18. Square = 1520
+740: It is Tetrahedron: a = 15, materialDensity = 1. Square = 389
+741: It is Tetrahedron: a = 9, materialDensity = 12. Square = 140
+742: It is Tetrahedron: a = 14, materialDensity = 5. Square = 339
+743: It is Ball: r = 19, materialDensity = 17. Square = 4536
+744: It is Parallelepiped: a = 2, b = 7, c = 17, materialDensity = 5. Square = 332
+745: It is Parallelepiped: a = 15, b = 16, c = 16, materialDensity = 5. Square = 1470
+746: It is Tetrahedron: a = 20, materialDensity = 11. Square = 692
+747: It is Tetrahedron: a = 12, materialDensity = 20. Square = 249
+748: It is Ball: r = 14, materialDensity = 18. Square = 2463
+749: It is Ball: r = 9, materialDensity = 10. Square = 1017
+750: It is Tetrahedron: a = 17, materialDensity = 14. Square = 500
+751: It is Parallelepiped: a = 2, b = 18, c = 12, materialDensity = 5. Square = 552
+752: It is Ball: r = 5, materialDensity = 1. Square = 314
+753: It is Tetrahedron: a = 13, materialDensity = 17. Square = 292
+754: It is Parallelepiped: a = 7, b = 4, c = 20, materialDensity = 5. Square = 490
+755: It is Parallelepiped: a = 19, b = 19, c = 2, materialDensity = 5. Square = 874
+756: It is Ball: r = 12, materialDensity = 16. Square = 1809
+757: It is Parallelepiped: a = 10, b = 4, c = 9, materialDensity = 5. Square = 320
+758: It is Tetrahedron: a = 2, materialDensity = 2. Square = 6
+759: It is Ball: r = 19, materialDensity = 13. Square = 4536
+760: It is Ball: r = 4, materialDensity = 10. Square = 201
+761: It is Tetrahedron: a = 8, materialDensity = 2. Square = 110
+762: It is Parallelepiped: a = 20, b = 9, c = 17, materialDensity = 5. Square = 1320
+763: It is Ball: r = 7, materialDensity = 10. Square = 615
+764: It is Tetrahedron: a = 20, materialDensity = 12. Square = 692
+765: It is Tetrahedron: a = 3, materialDensity = 7. Square = 15
+766: It is Tetrahedron: a = 5, materialDensity = 11. Square = 43
+767: It is Ball: r = 20, materialDensity = 2. Square = 5026
+768: It is Tetrahedron: a = 1, materialDensity = 15. Square = 1
+769: It is Parallelepiped: a = 14, b = 20, c = 9, materialDensity = 5. Square = 1148
+770: It is Parallelepiped: a = 16, b = 16, c = 18, materialDensity = 5. Square = 1664
+771: It is Tetrahedron: a = 14, materialDensity = 18. Square = 339
+772: It is Ball: r = 12, materialDensity = 19. Square = 1809
+773: It is Tetrahedron: a = 11, materialDensity = 10. Square = 209
+774: It is Ball: r = 14, materialDensity = 16. Square = 2463
+775: It is Tetrahedron: a = 18, materialDensity = 18. Square = 561
+776: It is Ball: r = 9, materialDensity = 12. Square = 1017
+777: It is Ball: r = 9, materialDensity = 18. Square = 1017
+778: It is Tetrahedron: a = 14, materialDensity = 17. Square = 339
+779: It is Parallelepiped: a = 8, b = 1, c = 2, materialDensity = 5. Square = 48
+780: It is Tetrahedron: a = 20, materialDensity = 3. Square = 692
+781: It is Ball: r = 9, materialDensity = 19. Square = 1017
+782: It is Parallelepiped: a = 19, b = 20, c = 17, materialDensity = 5. Square = 2052
+783: It is Ball: r = 2, materialDensity = 16. Square = 50
+784: It is Ball: r = 11, materialDensity = 13. Square = 1520
+785: It is Ball: r = 11, materialDensity = 16. Square = 1520
+786: It is Parallelepiped: a = 19, b = 14, c = 2, materialDensity = 5. Square = 646
+787: It is Tetrahedron: a = 8, materialDensity = 4. Square = 110
+788: It is Tetrahedron: a = 1, materialDensity = 11. Square = 1
+789: It is Parallelepiped: a = 12, b = 14, c = 7, materialDensity = 5. Square = 696
+790: It is Ball: r = 12, materialDensity = 11. Square = 1809
+791: It is Ball: r = 20, materialDensity = 19. Square = 5026
+792: It is Tetrahedron: a = 13, materialDensity = 6. Square = 292
+793: It is Tetrahedron: a = 3, materialDensity = 10. Square = 15
+794: It is Parallelepiped: a = 13, b = 6, c = 12, materialDensity = 5. Square = 598
+795: It is Parallelepiped: a = 6, b = 20, c = 12, materialDensity = 5. Square = 864
+796: It is Tetrahedron: a = 6, materialDensity = 5. Square = 62
+797: It is Tetrahedron: a = 10, materialDensity = 8. Square = 173
+798: It is Tetrahedron: a = 8, materialDensity = 20. Square = 110
+799: It is Ball: r = 11, materialDensity = 11. Square = 1520
+800: It is Parallelepiped: a = 3, b = 1, c = 15, materialDensity = 5. Square = 126
+801: It is Ball: r = 14, materialDensity = 10. Square = 2463
+802: It is Tetrahedron: a = 1, materialDensity = 14. Square = 1
+803: It is Tetrahedron: a = 4, materialDensity = 9. Square = 27
+804: It is Ball: r = 1, materialDensity = 8. Square = 12
+805: It is Parallelepiped: a = 5, b = 3, c = 11, materialDensity = 5. Square = 200
+806: It is Parallelepiped: a = 20, b = 9, c = 18, materialDensity = 5. Square = 1400
+807: It is Ball: r = 11, materialDensity = 2. Square = 1520
+808: It is Parallelepiped: a = 14, b = 4, c = 10, materialDensity = 5. Square = 448
+809: It is Parallelepiped: a = 7, b = 14, c = 19, materialDensity = 5. Square = 994
+810: It is Tetrahedron: a = 5, materialDensity = 13. Square = 43
+811: It is Ball: r = 13, materialDensity = 7. Square = 2123
+812: It is Ball: r = 13, materialDensity = 20. Square = 2123
+813: It is Parallelepiped: a = 15, b = 10, c = 19, materialDensity = 5. Square = 1230
+814: It is Ball: r = 7, materialDensity = 11. Square = 615
+815: It is Tetrahedron: a = 6, materialDensity = 1. Square = 62
+816: It is Tetrahedron: a = 16, materialDensity = 6. Square = 443
+817: It is Ball: r = 5, materialDensity = 6. Square = 314
+818: It is Ball: r = 4, materialDensity = 11. Square = 201
+819: It is Ball: r = 5, materialDensity = 8. Square = 314
+820: It is Tetrahedron: a = 9, materialDensity = 9. Square = 140
+821: It is Ball: r = 15, materialDensity = 2. Square = 2827
+822: It is Parallelepiped: a = 6, b = 19, c = 15, materialDensity = 5. Square = 972
+823: It is Tetrahedron: a = 8, materialDensity = 9. Square = 110
+824: It is Parallelepiped: a = 10, b = 12, c = 9, materialDensity = 5. Square = 620
+825: It is Ball: r = 16, materialDensity = 7. Square = 3216
+826: It is Ball: r = 20, materialDensity = 5. Square = 5026
+827: It is Parallelepiped: a = 15, b = 15, c = 5, materialDensity = 5. Square = 750
+828: It is Ball: r = 8, materialDensity = 20. Square = 804
+829: It is Ball: r = 16, materialDensity = 6. Square = 3216
+830: It is Ball: r = 16, materialDensity = 12. Square = 3216
+831: It is Parallelepiped: a = 2, b = 19, c = 11, materialDensity = 5. Square = 536
+832: It is Ball: r = 13, materialDensity = 10. Square = 2123
+833: It is Tetrahedron: a = 13, materialDensity = 11. Square = 292
+834: It is Tetrahedron: a = 8, materialDensity = 18. Square = 110
+835: It is Parallelepiped: a = 20, b = 2, c = 6, materialDensity = 5. Square = 320
+836: It is Ball: r = 10, materialDensity = 5. Square = 1256
+837: It is Parallelepiped: a = 10, b = 16, c = 4, materialDensity = 5. Square = 520
+838: It is Ball: r = 19, materialDensity = 13. Square = 4536
+839: It is Tetrahedron: a = 1, materialDensity = 6. Square = 1
+840: It is Ball: r = 11, materialDensity = 7. Square = 1520
+841: It is Ball: r = 15, materialDensity = 16. Square = 2827
+842: It is Parallelepiped: a = 20, b = 19, c = 19, materialDensity = 5. Square = 2240
+843: It is Parallelepiped: a = 12, b = 18, c = 9, materialDensity = 5. Square = 960
+844: It is Ball: r = 8, materialDensity = 19. Square = 804
+845: It is Parallelepiped: a = 10, b = 20, c = 15, materialDensity = 5. Square = 1300
+846: It is Tetrahedron: a = 15, materialDensity = 12. Square = 389
+847: It is Tetrahedron: a = 11, materialDensity = 4. Square = 209
+848: It is Ball: r = 4, materialDensity = 6. Square = 201
+849: It is Tetrahedron: a = 16, materialDensity = 12. Square = 443
+850: It is Parallelepiped: a = 1, b = 11, c = 18, materialDensity = 5. Square = 454
+851: It is Parallelepiped: a = 5, b = 3, c = 19, materialDensity = 5. Square = 330
+852: It is Tetrahedron: a = 2, materialDensity = 12. Square = 6
+853: It is Parallelepiped: a = 1, b = 1, c = 2, materialDensity = 5. Square = 10
+854: It is Tetrahedron: a = 10, materialDensity = 2. Square = 173
+855: It is Parallelepiped: a = 10, b = 12, c = 4, materialDensity = 5. Square = 400
+856: It is Tetrahedron: a = 9, materialDensity = 19. Square = 140
+857: It is Tetrahedron: a = 12, materialDensity = 18. Square = 249
+858: It is Ball: r = 3, materialDensity = 15. Square = 113
+859: It is Ball: r = 4, materialDensity = 11. Square = 201
+860: It is Ball: r = 2, materialDensity = 15. Square = 50
+861: It is Tetrahedron: a = 16, materialDensity = 6. Square = 443
+862: It is Parallelepiped: a = 16, b = 7, c = 12, materialDensity = 5. Square = 768
+863: It is Tetrahedron: a = 1, materialDensity = 4. Square = 1
+864: It is Ball: r = 2, materialDensity = 15. Square = 50
+865: It is Tetrahedron: a = 17, materialDensity = 9. Square = 500
+866: It is Ball: r = 15, materialDensity = 3. Square = 2827
+867: It is Parallelepiped: a = 4, b = 4, c = 20, materialDensity = 5. Square = 352
+868: It is Parallelepiped: a = 3, b = 20, c = 14, materialDensity = 5. Square = 762
+869: It is Parallelepiped: a = 3, b = 12, c = 19, materialDensity = 5. Square = 642
+870: It is Tetrahedron: a = 17, materialDensity = 17. Square = 500
+871: It is Parallelepiped: a = 20, b = 10, c = 4, materialDensity = 5. Square = 640
+872: It is Ball: r = 10, materialDensity = 17. Square = 1256
+873: It is Parallelepiped: a = 19, b = 11, c = 13, materialDensity = 5. Square = 1178
+874: It is Parallelepiped: a = 8, b = 16, c = 8, materialDensity = 5. Square = 640
+875: It is Parallelepiped: a = 11, b = 16, c = 9, materialDensity = 5. Square = 836
+876: It is Ball: r = 12, materialDensity = 10. Square = 1809
+877: It is Parallelepiped: a = 5, b = 8, c = 16, materialDensity = 5. Square = 490
+878: It is Tetrahedron: a = 8, materialDensity = 2. Square = 110
+879: It is Ball: r = 18, materialDensity = 13. Square = 4071
+880: It is Tetrahedron: a = 7, materialDensity = 11. Square = 84
+881: It is Parallelepiped: a = 17, b = 16, c = 4, materialDensity = 5. Square = 782
+882: It is Tetrahedron: a = 11, materialDensity = 13. Square = 209
+883: It is Parallelepiped: a = 6, b = 15, c = 19, materialDensity = 5. Square = 972
+884: It is Parallelepiped: a = 20, b = 6, c = 2, materialDensity = 5. Square = 320
+885: It is Parallelepiped: a = 9, b = 6, c = 14, materialDensity = 5. Square = 522
+886: It is Ball: r = 8, materialDensity = 1. Square = 804
+887: It is Ball: r = 12, materialDensity = 6. Square = 1809
+888: It is Tetrahedron: a = 14, materialDensity = 9. Square = 339
+889: It is Parallelepiped: a = 9, b = 4, c = 14, materialDensity = 5. Square = 432
+890: It is Tetrahedron: a = 6, materialDensity = 7. Square = 62
+891: It is Tetrahedron: a = 12, materialDensity = 5. Square = 249
+892: It is Parallelepiped: a = 4, b = 4, c = 3, materialDensity = 5. Square = 80
+893: It is Parallelepiped: a = 16, b = 13, c = 20, materialDensity = 5. Square = 1568
+894: It is Ball: r = 4, materialDensity = 8. Square = 201
+895: It is Ball: r = 6, materialDensity = 19. Square = 452
+896: It is Tetrahedron: a = 6, materialDensity = 13. Square = 62
+897: It is Tetrahedron: a = 3, materialDensity = 13. Square = 15
+898: It is Ball: r = 16, materialDensity = 8. Square = 3216
+899: It is Tetrahedron: a = 13, materialDensity = 14. Square = 292
+900: It is Parallelepiped: a = 16, b = 19, c = 3, materialDensity = 5. Square = 800
+901: It is Tetrahedron: a = 17, materialDensity = 3. Square = 500
+902: It is Tetrahedron: a = 12, materialDensity = 7. Square = 249
+903: It is Parallelepiped: a = 13, b = 20, c = 10, materialDensity = 5. Square = 1170
+904: It is Tetrahedron: a = 16, materialDensity = 19. Square = 443
+905: It is Tetrahedron: a = 1, materialDensity = 3. Square = 1
+906: It is Tetrahedron: a = 15, materialDensity = 15. Square = 389
+907: It is Tetrahedron: a = 2, materialDensity = 3. Square = 6
+908: It is Tetrahedron: a = 6, materialDensity = 16. Square = 62
+909: It is Parallelepiped: a = 1, b = 6, c = 1, materialDensity = 5. Square = 26
+910: It is Parallelepiped: a = 17, b = 13, c = 15, materialDensity = 5. Square = 1326
+911: It is Ball: r = 1, materialDensity = 1. Square = 12
+912: It is Tetrahedron: a = 2, materialDensity = 12. Square = 6
+913: It is Tetrahedron: a = 17, materialDensity = 2. Square = 500
+914: It is Tetrahedron: a = 10, materialDensity = 4. Square = 173
+915: It is Tetrahedron: a = 16, materialDensity = 11. Square = 443
+916: It is Parallelepiped: a = 18, b = 13, c = 20, materialDensity = 5. Square = 1692
+917: It is Tetrahedron: a = 6, materialDensity = 16. Square = 62
+918: It is Parallelepiped: a = 18, b = 6, c = 17, materialDensity = 5. Square = 1008
+919: It is Tetrahedron: a = 3, materialDensity = 2. Square = 15
+920: It is Ball: r = 15, materialDensity = 14. Square = 2827
+921: It is Ball: r = 16, materialDensity = 6. Square = 3216
+922: It is Tetrahedron: a = 13, materialDensity = 19. Square = 292
+923: It is Tetrahedron: a = 14, materialDensity = 15. Square = 339
+924: It is Tetrahedron: a = 9, materialDensity = 5. Square = 140
+925: It is Ball: r = 18, materialDensity = 9. Square = 4071
+926: It is Tetrahedron: a = 5, materialDensity = 8. Square = 43
+927: It is Ball: r = 20, materialDensity = 17. Square = 5026
+928: It is Parallelepiped: a = 17, b = 13, c = 5, materialDensity = 5. Square = 714
+929: It is Parallelepiped: a = 7, b = 4, c = 9, materialDensity = 5. Square = 252
+930: It is Tetrahedron: a = 5, materialDensity = 9. Square = 43
+931: It is Tetrahedron: a = 9, materialDensity = 8. Square = 140
+932: It is Tetrahedron: a = 2, materialDensity = 2. Square = 6
+933: It is Parallelepiped: a = 2, b = 6, c = 10, materialDensity = 5. Square = 184
+934: It is Tetrahedron: a = 7, materialDensity = 16. Square = 84
+935: It is Ball: r = 9, materialDensity = 7. Square = 1017
+936: It is Ball: r = 20, materialDensity = 15. Square = 5026
+937: It is Parallelepiped: a = 4, b = 14, c = 9, materialDensity = 5. Square = 432
+938: It is Tetrahedron: a = 9, materialDensity = 14. Square = 140
+939: It is Parallelepiped: a = 13, b = 2, c = 18, materialDensity = 5. Square = 572
+940: It is Tetrahedron: a = 15, materialDensity = 14. Square = 389
+941: It is Parallelepiped: a = 19, b = 8, c = 19, materialDensity = 5. Square = 1330
+942: It is Parallelepiped: a = 16, b = 6, c = 18, materialDensity = 5. Square = 960
+943: It is Parallelepiped: a = 4, b = 2, c = 17, materialDensity = 5. Square = 216
+944: It is Parallelepiped: a = 12, b = 15, c = 15, materialDensity = 5. Square = 1152
+945: It is Parallelepiped: a = 4, b = 19, c = 3, materialDensity = 5. Square = 288
+946: It is Tetrahedron: a = 12, materialDensity = 1. Square = 249
+947: It is Tetrahedron: a = 19, materialDensity = 6. Square = 625
+948: It is Parallelepiped: a = 9, b = 13, c = 17, materialDensity = 5. Square = 972
+949: It is Parallelepiped: a = 12, b = 5, c = 12, materialDensity = 5. Square = 528
+950: It is Tetrahedron: a = 7, materialDensity = 5. Square = 84
+951: It is Tetrahedron: a = 17, materialDensity = 12. Square = 500
+952: It is Tetrahedron: a = 11, materialDensity = 18. Square = 209
+953: It is Parallelepiped: a = 6, b = 1, c = 20, materialDensity = 5. Square = 288
+954: It is Parallelepiped: a = 12, b = 12, c = 1, materialDensity = 5. Square = 336
+955: It is Parallelepiped: a = 6, b = 13, c = 18, materialDensity = 5. Square = 840
+956: It is Parallelepiped: a = 17, b = 17, c = 13, materialDensity = 5. Square = 1462
+957: It is Ball: r = 16, materialDensity = 2. Square = 3216
+958: It is Tetrahedron: a = 1, materialDensity = 7. Square = 1
+959: It is Tetrahedron: a = 12, materialDensity = 16. Square = 249
+960: It is Parallelepiped: a = 1, b = 9, c = 3, materialDensity = 5. Square = 78
+961: It is Tetrahedron: a = 3, materialDensity = 14. Square = 15
+962: It is Ball: r = 15, materialDensity = 14. Square = 2827
+963: It is Parallelepiped: a = 16, b = 11, c = 11, materialDensity = 5. Square = 928
+964: It is Ball: r = 12, materialDensity = 2. Square = 1809
+965: It is Ball: r = 4, materialDensity = 15. Square = 201
+966: It is Parallelepiped: a = 11, b = 16, c = 8, materialDensity = 5. Square = 770
+967: It is Tetrahedron: a = 3, materialDensity = 14. Square = 15
+968: It is Tetrahedron: a = 20, materialDensity = 15. Square = 692
+969: It is Ball: r = 14, materialDensity = 8. Square = 2463
+970: It is Ball: r = 17, materialDensity = 13. Square = 3631
+971: It is Parallelepiped: a = 3, b = 18, c = 11, materialDensity = 5. Square = 570
+972: It is Tetrahedron: a = 14, materialDensity = 15. Square = 339
+973: It is Parallelepiped: a = 17, b = 9, c = 14, materialDensity = 5. Square = 1020
+974: It is Tetrahedron: a = 3, materialDensity = 2. Square = 15
+975: It is Parallelepiped: a = 10, b = 5, c = 4, materialDensity = 5. Square = 220
+976: It is Parallelepiped: a = 5, b = 15, c = 16, materialDensity = 5. Square = 790
+977: It is Parallelepiped: a = 15, b = 4, c = 17, materialDensity = 5. Square = 750
+978: It is Parallelepiped: a = 11, b = 4, c = 11, materialDensity = 5. Square = 418
+979: It is Ball: r = 4, materialDensity = 15. Square = 201
+980: It is Tetrahedron: a = 20, materialDensity = 15. Square = 692
+981: It is Parallelepiped: a = 3, b = 17, c = 3, materialDensity = 5. Square = 222
+982: It is Tetrahedron: a = 4, materialDensity = 9. Square = 27
+983: It is Parallelepiped: a = 20, b = 18, c = 14, materialDensity = 5. Square = 1760
+984: It is Tetrahedron: a = 20, materialDensity = 14. Square = 692
+985: It is Tetrahedron: a = 16, materialDensity = 2. Square = 443
+986: It is Tetrahedron: a = 4, materialDensity = 12. Square = 27
+987: It is Tetrahedron: a = 14, materialDensity = 12. Square = 339
+988: It is Tetrahedron: a = 10, materialDensity = 18. Square = 173
+989: It is Parallelepiped: a = 9, b = 12, c = 12, materialDensity = 5. Square = 720
+990: It is Tetrahedron: a = 6, materialDensity = 8. Square = 62
+991: It is Parallelepiped: a = 2, b = 8, c = 14, materialDensity = 5. Square = 312
+992: It is Tetrahedron: a = 20, materialDensity = 6. Square = 692
+993: It is Parallelepiped: a = 19, b = 12, c = 10, materialDensity = 5. Square = 1064
+994: It is Parallelepiped: a = 8, b = 17, c = 5, materialDensity = 5. Square = 512
+995: It is Parallelepiped: a = 8, b = 6, c = 12, materialDensity = 5. Square = 432
+996: It is Ball: r = 12, materialDensity = 8. Square = 1809
+997: It is Ball: r = 15, materialDensity = 7. Square = 2827
+998: It is Tetrahedron: a = 2, materialDensity = 3. Square = 6
+999: It is Tetrahedron: a = 1, materialDensity = 17. Square = 1
+Square sum = 6663
+Calculaton time = 0.00662299

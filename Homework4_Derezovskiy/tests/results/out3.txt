@@ -1,0 +1,11 @@
+Filled container:
+0: It is Tetrahedron: a = 6, materialDensity = 9. Square = 62
+1: It is Tetrahedron: a = 6, materialDensity = 9. Square = 62
+2: It is Tetrahedron: a = 7, materialDensity = 88. Square = 84
+3: It is Ball: r = 4, materialDensity = 6. Square = 201
+4: It is Ball: r = 3, materialDensity = 4. Square = 113
+5: It is Ball: r = 4, materialDensity = 6. Square = 201
+6: It is Ball: r = 44, materialDensity = 5. Square = 24328
+7: It is Parallelepiped: a = 55, b = 68, c = 73, materialDensity = 3. Square = 25410
+Square sum = 50461
+Calculaton time = 0.000245
